@@ -1,0 +1,4707 @@
+[BÀI KỸ THUẬT CẤP CỨU]
+
+Câu 1 Khi bị phỏng nhẹ do vật nóng, xử trí đúng là gì?{ 
+ ~ Bôi vaselin ngay lên vết phỏng
+ = Đắp gạc tẩm dung dịch acid picric bão hòa
+ ~ Băng thật chặt vùng phỏng
+ ~ Chườm đá trực tiếp lâu dài
+}
+
+Câu 2 Phỏng nặng do vật nóng cần xử trí tạm thời như thế nào?{ 
+ ~ Bôi thuốc mỡ để giảm đau
+ = Đắp nhẹ gạc tẩm acid picric rồi chuyển viện
+ ~ Buộc vải thật chặt quanh vết phỏng
+ ~ Rửa bằng xà phòng đậm đặc
+}
+
+Câu 3 Khi bị phỏng do hóa chất, việc đầu tiên cần làm là gì?{ 
+ ~ Trung hòa hóa chất bằng dung dịch ngay
+ = Rửa trôi hóa chất bằng nước thật nhiều
+ ~ Lau bằng khăn khô
+ ~ Chà xát mạnh vết phỏng
+}
+
+Câu 4 Phỏng da do acid được xử trí bằng dung dịch nào?{ 
+ ~ Acid boric 1%
+ = NaHCO₃ 8%
+ ~ Acid picric 3%
+ ~ Cồn 70°
+}
+
+Câu 5 Phỏng da do kiềm nên dùng dung dịch nào để trung hòa?{ 
+ ~ NaHCO₃ 8%
+ = Acid picric 3%
+ ~ Acid boric 1%
+ ~ Nước muối đậm đặc
+}
+
+Câu 6 Khi acid vào mắt, bước xử trí đúng là gì?{ 
+ ~ Rửa bằng nước nóng
+ = Rửa ngay bằng nước rồi tắm mắt bằng NaHCO₃ 1%
+ ~ Đắp khăn khô lên mắt
+ ~ Rửa bằng giấm
+}
+
+Câu 7 Khi brom vào mắt, xử trí giống như trường hợp nào?{ 
+ ~ Giống kiềm
+ = Giống acid (tắm nước rồi dùng NaHCO₃ 1%)
+ ~ Không được rửa nước
+ ~ Chỉ nhắm mắt chờ tự khỏi
+}
+
+Câu 8 Chất kiềm vào mắt cần xử trí như thế nào?{ 
+ ~ Dùng bicarbonate rửa ngay
+ = Rửa nước rồi tắm mắt bằng acid boric 1%
+ ~ Rửa bằng cồn
+ ~ Rửa bằng nước muối đậm đặc
+}
+
+Câu 9 Khi acid vào miệng, phương pháp xử trí đúng là gì?{ 
+ ~ Uống dầu ăn cho loãng acid
+ = Súc miệng bằng NaHCO₃ 1% nhiều lần
+ ~ Súc miệng bằng nước nóng
+ ~ Uống sữa ngay
+}
+
+Câu 10 Kiềm vào miệng nên được xử trí bằng cách nào?{ 
+ ~ Súc bằng NaHCO₃ 1%
+ = Súc bằng acid boric 1%
+ ~ Súc bằng nước muối đặc
+ ~ Uống giấm ngay
+}
+
+Câu 11 Nếu hóa chất không phải acid hay kiềm vào miệng, nên làm gì?{ 
+ ~ Trung hòa bằng giấm
+ ~ Trung hòa bằng acid boric
+ = Súc miệng nhiều lần bằng nước lạnh
+ ~ Không được súc miệng
+}
+
+Câu 12 Trường hợp nhiễm hơi độc, việc làm đầu tiên là gì?{ 
+ ~ Bịt kín mặt nạn nhân
+ = Đưa ra nơi thoáng khí và nới rộng quần áo
+ ~ Cho uống nước đường
+ ~ Cho nằm trong phòng kín
+}
+
+Câu 13 Nạn nhân nhiễm hơi độc cần uống gì để kích thích hô hấp?{ 
+ ~ Nước đá lạnh
+ = Café đen hoặc sirô cafein
+ ~ Nước ngọt
+ ~ Rượu mạnh
+}
+
+Câu 14 Khi xử trí điện giật, bước đầu tiên phải làm gì?{ 
+ ~ Kéo nạn nhân khỏi nguồn điện bằng tay trần
+ ~ Tạt nước vào nạn nhân
+ = Ngắt ngay cầu dao điện gần nhất
+ ~ Gỡ dây bằng vật kim loại
+}
+
+Câu 15 Nạn nhân điện giật cần được xử trí thế nào?{ 
+ ~ Cho đứng dậy đi lại ngay
+ = Đưa ra nơi thoáng, nới quần áo, hỗ trợ hô hấp nếu cần
+ ~ Cho uống thuốc giảm đau
+ ~ Cho nằm sấp và giữ yên
+}
+
+Câu 16 Với ngọn lửa nhỏ, cách dập lửa đúng là gì?{ 
+ ~ Dùng cồn 70° để dập
+ = Dùng khăn ướt, vải bố ướt hoặc cát
+ ~ Dùng giấy quạt mạnh
+ ~ Đổ rượu để cháy hết
+}
+
+Câu 17 Khi quần áo bị bắt lửa, hành động đúng là gì?{ 
+ ~ Chạy thật nhanh để tạo gió
+ = Lăn nhiều vòng dưới đất để dập lửa
+ ~ Nhảy lên cao cho lửa tắt
+ ~ Tạt nước mạnh vào ngực
+}
+
+Câu 18 Cách dùng vải bố ướt khi quần áo cháy là gì?{ 
+ ~ Phủ nhẹ lên, không ép sát
+ = Trùm lên chỗ cháy và ép sát đến khi tắt lửa
+ ~ Dùng khăn khô đè lên
+ ~ Phủ áo khoác lông lên chỗ cháy
+}
+
+Câu 19 Khi xảy ra tai nạn trong phòng thí nghiệm, sinh viên cần làm gì?{ 
+ ~ Tự xử lý hoàn toàn
+ = Báo ngay cho nhân viên phụ trách phòng thí nghiệm
+ ~ Tự ý bôi thuốc mỡ
+ ~ Chờ tự khỏi
+}
+
+Câu 20 Việc làm đầu tiên khi bị phỏng hóa chất là gì?{ 
+ ~ Trung hòa ngay bằng hóa chất đối nghịch
+ = Rửa trôi hóa chất thật nhiều bằng nước
+ ~ Chà mạnh để hóa chất bong ra
+ ~ Rửa bằng cồn
+}
+
+Câu 21 Phỏng da do acid cần xử trí thế nào?{
+ ~ Rửa bằng nước nóng
+ = Đắp dung dịch NaHCO₃ 8%
+ ~ Dùng acid boric 1%
+ ~ Dùng dung dịch muối đậm đặc
+}
+
+Câu 22 Trong nhiễm hơi độc, đồ uống thích hợp là gì?{ 
+ ~ Nước chanh
+ = Café đen hoặc siro cafein
+ ~ Nước đá lạnh
+ ~ Nước ngọt
+}
+
+Câu 23 Khi điện giật, điều nào sau đây là đúng?{ 
+ ~ Gỡ dây bằng que kim loại
+ ~ Xối nước lên ổ điện cho nguội
+ = Ngắt điện ở bất kỳ cầu dao nào gần nhất
+ ~ Chạm vào nạn nhân ngay lập tức
+}
+
+Câu 24 Kiềm bắn vào mắt, cần xử trí thế nào?{ 
+ ~ Rửa bằng bicarbonate 1%
+ ~ Đắp khăn đá
+ = Rửa bằng nước rồi tắm mắt bằng acid boric 1%
+ ~ Rửa bằng cồn để sát trùng
+}
+
+Câu 25 Với vết phỏng nặng do nhiệt, cách xử trí đúng là gì?{ 
+ ~ Bôi kem đánh răng
+ = Đắp nhẹ gạc tẩm acid picric và chuyển viện
+ ~ Chườm đá trực tiếp
+ ~ Bôi dầu ăn
+}
+Câu 26 Mẫu máu dùng để phân tích các chỉ số hóa sinh thường lấy từ đâu?{
+ ~ Máu động mạch luôn
+ = Máu tĩnh mạch, đôi khi là máu động mạch hoặc mao mạch
+ ~ Máu bề mặt da
+ ~ Máu tĩnh mạch ở chân
+}
+
+Câu 27 Khi lấy máu tĩnh mạch, bệnh nhân nên được chuẩn bị như thế nào?{
+ ~ Ngồi xổm trên ghế
+ = Nghỉ 15-20 phút, giải thích cách lấy máu, tay duỗi thoải mái
+ ~ Nằm sấp, tay gập
+ ~ Uống nước nhiều trước khi lấy máu
+}
+
+Câu 28 Chất chống đông EDTA thường được dùng cho loại xét nghiệm nào?{
+ ~ Hóa sinh máu
+ = Huyết học
+ ~ Sinh hóa enzym
+ ~ Xét nghiệm khí máu
+}
+
+Câu 29 Khi lấy máu động mạch, điều nào sau đây đúng?{
+ ~ Dùng dây thắt lâu trên cánh tay
+ = Nên để máu tự động chảy vào bơm tiêm, tráng bơm tiêm bằng heparin
+ ~ Lấy máu ngay mà không cần chuẩn bị
+ ~ Thường lấy ở gót chân
+}
+
+Câu 30 Lấy máu ở trẻ em thường thực hiện ở vị trí nào?{
+ ~ Khuỷu tay
+ ~ Cẳng tay
+ = Gót chân
+ ~ Mu bàn tay
+}
+
+Câu 31 Huyết thanh được tách ra từ máu bằng cách nào?{
+ ~ Lắc mạnh máu chưa đông
+ ~ Chỉ lấy phần huyết tương
+ = Dùng que thủy tinh hoặc pipete tách phần cục máu đông ra khỏi thành ống
+ ~ Thêm chất chống đông EDTA
+}
+
+Câu 32 Để tránh sai số do hoại huyết khi lấy máu toàn phần hay huyết tương, cần thực hiện gì?{
+ = Cho máu vào ống có sẵn chất chống đông và lắc nhẹ đều
+ ~ Không cần dùng chất chống đông
+ ~ Ly tâm máu trước khi cho vào ống
+ ~ Đun nóng máu trước khi phân tích
+}
+
+Câu 33 Thời gian bảo quản tối đa cho mẫu huyết thanh và huyết tương ở nhiệt độ phòng là bao lâu?{
+ ~ 24 giờ
+ = Khoảng 4 giờ
+ ~ 12 giờ
+ ~ 48 giờ
+}
+
+Câu 34 Khi lấy nước tiểu 24 giờ, cần lưu ý điều gì?{
+ ~ Chỉ lấy nước tiểu đầu ngày
+ ~ Bỏ toàn bộ nước tiểu trước khi bắt đầu
+ = Thu góp tất cả nước tiểu trong 24 giờ, bỏ phần đầu tiên, ghi rõ thời gian, thể tích, thông tin bệnh nhân
+ ~ Không cần quan tâm giờ lấy
+}
+
+Câu 35 Nên lấy nước tiểu giữa dòng để làm gì?{
+ = Giảm nguy cơ tạp nhiễm từ dịch nhày, tế bào bong, vi khuẩn
+ ~ Dễ lấy hơn
+ ~ Tăng nồng độ chất cần đo
+ ~ Tiết kiệm thời gian
+}
+
+Câu 36 Khi lấy nước tiểu định lượng, bệnh nhân cần làm gì trước khi bắt đầu 24 giờ thu góp?{
+ ~ Uống nhiều nước
+ ~ Ngồi nghỉ 15 phút
+ = Bỏ phần nước tiểu đầu tiên, hứng tất cả phần tiếp theo trong 24 giờ
+ ~ Uống thuốc lợi tiểu
+}
+
+Câu 37 Mẫu nước tiểu cần bảo quản như thế nào nếu không phân tích ngay?{
+ ~ Nhiệt độ phòng 1 tuần
+ = Ở 2-8° C tối đa 3 ngày, dưới 0° C nếu cần lâu hơn
+ ~ Luôn đóng kín ở nhiệt độ phòng
+ ~ Đun nóng trước khi gửi phòng xét nghiệm
+}
+
+Câu 38 Khi lấy dịch vị, bệnh nhân cần chuẩn bị gì trước khi làm nghiệm pháp?{
+ = Nhịn đói 12 giờ và ngừng thuốc ảnh hưởng đến bài tiết ít nhất 24 giờ
+ ~ Uống nước trước khi lấy
+ ~ Ăn nhẹ trước khi lấy
+ ~ Ngồi nghỉ 5 phút
+}
+
+Câu 39 Mục đích lấy dịch vị là gì?{
+ = Chẩn đoán bệnh dạ dày, phát hiện vi khuẩn gây bệnh, nghiên cứu tác dụng của HCl và pepsin
+ ~ Kiểm tra chức năng gan
+ ~ Đo nồng độ đường huyết
+ ~ Xác định nhóm máu
+}
+
+Câu 40 Kỹ thuật lấy dịch vị hiện nay thường sử dụng gì?{
+ ~ Ống hút Einhorn
+ = Nội soi dạ dày
+ ~ Kim tiêm tĩnh mạch
+ ~ Que thử nhanh
+}
+
+Câu 41 Dịch não tủy được lấy để làm gì?{
+ ~ Kiểm tra chức năng gan
+ = Chẩn đoán một số bệnh thần kinh, theo dõi tiến triển bệnh
+ ~ Đo nồng độ glucose
+ ~ Xét nghiệm máu
+}
+
+Câu 42 Khi lấy dịch não tủy, cần đảm bảo điều gì?{
+ = Hứng bệnh phẩm vào hai ống nghiệm riêng có nút cao su, thực hiện bởi người có kinh nghiệm
+ ~ Dùng ống nghiệm bất kỳ
+ ~ Lấy nhanh bất cứ ai cũng được
+ ~ Thêm chất chống đông EDTA
+}
+
+Câu 43 Khi lấy máu, tại sao nên lấy vào buổi sáng sớm và bệnh nhân nhịn đói 12 giờ?{
+ = Nồng độ các chất trong máu phản ánh giá trị thực của xét nghiệm, tránh sai số do ăn uống
+ ~ Tiết kiệm thời gian nhân viên
+ ~ Dễ lấy máu hơn
+ ~ Giảm đau cho bệnh nhân
+}
+
+Câu 44 Chất chống đông heparin thường được dùng trong xét nghiệm nào?{
+ ~ Huyết học
+ = Hóa sinh máu, phân tích khí máu, cấp cứu
+ ~ Sinh học phân tử
+ ~ Xét nghiệm nước tiểu
+}
+
+Câu 45 Khi lấy máu tĩnh mạch, dây thắt được buộc ở vị trí nào?{
+ ~ Ngay sát cổ tay
+ = Trên khuỷu tay khoảng 2-3 cm
+ ~ Cẳng tay gần vai
+ ~ Dưới khuỷu tay
+}
+
+Câu 46 Nếu huyết thanh lẫn hồng cầu, cần làm gì?{
+ ~ Vứt bỏ mẫu
+ = Ly tâm lại 3000 vòng/phút trong 5 phút
+ ~ Thêm nước
+ ~ Lắc mạnh
+}
+
+Câu 47 Tại sao khi lấy máu động mạch, máu nên chảy tự động vào bơm tiêm?{
+ = Do áp lực máu trong động mạch, giúp tránh tổn thương và sai số
+ ~ Để nhanh hơn
+ ~ Tiết kiệm kim tiêm
+ ~ Tránh phải dùng heparin
+}
+
+Câu 48 Máu toàn phần, huyết tương và huyết thanh khác nhau như thế nào?{
+ = Máu toàn phần có chất chống đông, huyết tương là dịch trên sau ly tâm, huyết thanh là dịch sau khi máu đông
+ ~ Tất cả giống nhau
+ ~ Huyết tương đông, huyết thanh không đông
+ ~ Chỉ huyết thanh mới dùng xét nghiệm
+}
+
+Câu 49 Khi lấy máu ở trẻ em, giọt máu đầu tiên được xử lý như thế nào?{
+ ~ Lấy luôn để phân tích
+ = Bỏ đi, chỉ hứng các giọt tiếp theo
+ ~ Dùng giọt đầu tiên cho định lượng kali
+ ~ Trộn với dịch sát khuẩn
+}
+
+Câu 50 Ly tâm máu nhằm mục đích gì?{
+ = Tách phần dịch ở trên (huyết tương hoặc huyết thanh) khỏi các thành phần khác
+ ~ Trộn đều các chất trong máu
+ ~ Loại bỏ tế bào máu
+ ~ Làm đông máu nhanh
+}
+
+
+
+
+[Bài 1]
+
+
+Câu 1 Phỏng da do vật nóng mức độ nhẹ xử trí đầu tiên là?{
+~ Bôi dầu nóng
+~ Chườm đá trực tiếp
+= Rửa bằng nước lạnh và che phủ vô khuẩn
+~ Chọc vỡ bóng nước ngay
+}
+
+Câu 2 Phỏng do acid được xử lý bằng dung dịch nào?{
+~ Kiềm mạnh để trung hòa
+= Dung dịch acid picric bão hòa
+~ Dung dịch NaHCO3
+~ Cồn 70%
+}
+
+Câu 3 Phỏng do kiềm được xử lý bằng dung dịch nào?{
+~ Dung dịch NaOH loãng
+= Dung dịch acid picric 3%
+~ Nước muối ưu trương
+~ Dung dịch phenol
+}
+
+Câu 4 Phỏng mắt do acid được rửa bằng dung dịch gì?{
+~ Nước muối ưu trương 10%
+= Dung dịch acid boric 1%
+~ NaOH 1%
+~ Chloramine B
+}
+
+Câu 5 Phỏng mắt do kiềm xử trí đúng là?{
+~ Rửa bằng nước cất nóng
+= Rửa bằng dung dịch acid picric 3%
+~ Rửa bằng NaOH loãng
+~ Không được rửa mắt
+}
+
+Câu 6 Khi có người bị điện giật, bước đầu tiên cần làm là?{
+= Ngắt cầu dao điện
+~ Đổ nước vào người nạn nhân
+~ Kéo nạn nhân bằng tay
+~ Hô hấp nhân tạo ngay
+}
+
+Câu 7 Sau khi ngắt điện, cần làm gì tiếp theo?{
+~ Cho nạn nhân vận động mạnh
+= Nới rộng quần áo và hỗ trợ hô hấp nếu cần
+~ Cho uống cà phê
+~ Ngâm chân vào nước ấm
+}
+
+Câu 8 Khi bị chất độc vào miệng, xử trí ban đầu đúng là?{
+= Gây nôn (nếu không chống chỉ định)
+~ Cho uống rượu
+~ Cho uống nước chanh
+~ Bỏ mặc chờ cấp cứu
+}
+
+Câu 9 Trong trường hợp nhiễm hơi độc, cần làm gì trước tiên?{
+~ Cho uống thuốc an thần
+~ Cho nằm sấp
+= Đưa nạn nhân ra nơi thoáng khí
+~ Quấn chăn giữ ấm
+}
+
+Câu 10 Nguyên nhân nguy hiểm nhất khi xảy ra hỏa hoạn trong phòng thí nghiệm là?{
+~ Ánh sáng mạnh
+~ Độ ẩm giảm
+= Khói độc và khí nóng
+~ Gió lùa
+}
+
+Câu 11 "Phỏng do kiềm nguy hiểm hơn phỏng do acid." → Đúng hay sai?{
+= Đúng
+~ Sai
+}
+
+Câu 12 "Phỏng do acid nên trung hòa ngay bằng dung dịch kiềm mạnh." → Đúng hay sai?{
+~ Đúng
+= Sai
+}
+
+Câu 13 Ngộ độc hơi độc trong phòng thí nghiệm thường xảy ra do?{
+~ Hít phải hơi nước tinh khiết
+~ Hít phải không khí lạnh
+= Hít phải hơi hóa chất bay hơi
+~ Hít phải CO2 nồng độ thấp
+}
+
+Câu 14 Lửa bén vào quần áo có thể gây nguy hiểm gì?{
+~ Ngộ độc thức ăn
+= Phỏng nhiệt mức độ nặng
+~ Sốc phản vệ
+~ Chảy máu trong
+}
+
+Câu 15 Khi xử lý phỏng da, việc nào sau đây KHÔNG đúng?{
+= Bôi kem đánh răng
+~ Làm mát vùng phỏng
+~ Che phủ vô khuẩn
+~ Loại bỏ tác nhân gây phỏng
+}
+
+Câu 16 Dung dịch “acid boric 1%” dùng để xử lý trường hợp nào?{
+~ Phỏng da mức độ nhẹ
+= Phỏng mắt do acid
+~ Ngộ độc hơi độc
+~ Điện giật nhẹ
+}
+
+Câu 17 Dung dịch “acid picric 3%” dùng cho xử trí:{
+~ Phỏng do cồn
+= Phỏng do kiềm
+~ Phỏng cơ học
+~ Phỏng bằng kim loại nóng
+}
+
+Câu 18 Tình huống nào sau đây yêu cầu “đưa nạn nhân ra nơi thoáng khí”?{
+= Nhiễm hơi độc
+~ Phỏng da
+~ Phỏng hóa chất đặc
+~ Điện giật
+}
+
+Câu 19 Trong phòng thí nghiệm, “cốc có mỏ” thường dùng để?{
+~ Cất dung dịch
+= Rót dung dịch thuận tiện
+~ Đong chính xác từng giọt
+~ Lấy mẫu máu
+}
+
+Câu 20 Becher thuộc loại dụng cụ gì?{
+~ Dụng cụ điện
+= Dụng cụ chứa và trộn dung dịch
+~ Dụng cụ đo quang
+~ Dụng cụ bảo hộ
+}
+
+Câu 21 Ống hút (pipette) được sử dụng khi nào?{
+~ Khi cần giữ nhiệt
+= Khi cần lấy lượng dung dịch chính xác
+~ Khi cần đun nóng dung dịch
+~ Khi cần khuấy dung dịch
+}
+
+Câu 22 Nguyên tắc của phương pháp đo quang dựa trên:{
+~ Sự thay đổi áp suất
+= Mật độ quang của dung dịch chứa chất màu
+~ Sự thay đổi độ nhớt
+~ Sự thay đổi mùi
+}
+
+Câu 23 Để đo một chất không màu X bằng phương pháp đo quang, người ta làm gì?{
+~ Đun sôi X để tạo màu
+= Chuyển X thành RX có màu bằng thuốc thử
+~ Trung hòa X bằng kiềm
+~ Cho X bay hơi rồi đo
+}
+
+Câu 24 Công thức tính nồng độ trong đo quang thường biểu diễn dưới dạng:{
+~ pH =
+~ T =
+= C =
+~ F =
+}
+
+Câu 25 Thời điểm lấy máu xét nghiệm hóa sinh đúng nhất là?{
+~ Bất cứ lúc nào
+= Buổi sáng, nhịn đói 12 giờ
+~ Sau khi ăn no
+~ Trước khi ngủ
+}
+
+Câu 26 Xét nghiệm máu yêu cầu người bệnh nhịn đói 12 giờ nhằm mục đích?{
+~ Ngăn mất nước
+= Tránh ảnh hưởng glucose và lipid máu
+~ Tăng bạch cầu
+~ Giảm đau khi lấy máu
+}
+
+Câu 27 Dụng cụ nào sau đây KHÔNG phải dụng cụ đo quang?{
+~ Cuvette
+~ Buồng đo quang
+= Pipette
+~ Máy quang phổ
+}
+
+Câu 28 Khi xử lý phỏng hóa chất, bước đầu tiên là?{
+~ Bôi thuốc mỡ
+= Loại bỏ hóa chất và rửa nhiều nước
+~ Chườm nóng
+~ Thoa cồn 70%
+}
+
+Câu 29 Trong đo quang, ánh sáng đi qua dung dịch càng đậm màu thì?{
+~ Cường độ ánh sáng tăng
+= Cường độ ánh sáng giảm
+~ Không đổi
+~ Tùy máy đo
+}
+
+Câu 30 Phương pháp đo quang được dùng để xác định điều nào sau đây?{
+~ Mùi dung dịch
+= Nồng độ chất màu trong dung dịch
+~ Áp suất dung dịch
+~ Khối lượng riêng của dung dịch
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[===== Phản Ứng molish - Bài 1 =====]
+
+[Phản Ứng molish - Bài 1]
+
+Phản ứng Molish thuộc loại phản ứng nào?{
+~ Phản ứng định lượng
+= Phản ứng định tính
+~ Phản ứng chuẩn độ
+~ Phản ứng oxy hóa – khử
+}
+
+Phản ứng Molish dùng để nhận biết chất nào?{
+~ Lipid
+~ Protein
+= Glucid
+~ Acid amin
+}
+
+Nguyên tắc của phản ứng Molish là gì?{
+~ Glucid bị oxy hóa tạo kết tủa
+= Glucid tạo phức màu tím với Naphtol trong môi trường H2SO4 đậm đặc
+~ Glucid khử ion kim loại
+~ Glucid bị thủy phân hoàn toàn
+}
+
+Vai trò chính của H2SO4 đậm đặc trong phản ứng Molish là gì?{
+~ Trung hòa dung dịch
+~ Tạo màu trực tiếp
+= Khử nước glucid tạo furfural hoặc hydroxymethylfurfural
+~ Làm lạnh phản ứng
+}
+
+Sản phẩm trung gian của glucid trong phản ứng Molish là?{
+~ Alcohol
+~ Acid hữu cơ
+= Furfural hoặc hydroxymethylfurfural
+~ Aldehyd béo
+}
+
+Furfural phản ứng với chất nào để tạo màu tím?{
+~ Glucose
+~ H2SO4
+= α–Naphtol
+~ CuSO4
+}
+
+Thuốc thử Molish gồm các thành phần nào?{
+~ H2SO4 loãng và glucose
+~ NaOH và Naphtol
+= Naphtol 1% trong cồn 90° và H2SO4 đậm đặc
+~ Naphtol hòa tan trong nước
+}
+
+Nồng độ Naphtol dùng trong phản ứng Molish là?{
+~ 0,1%
+~ 0,5%
+= 1%
+~ 5%
+}
+
+Dung môi hòa tan Naphtol trong thuốc thử Molish là?{
+~ Nước cất
+~ Ether
+= Cồn 90°
+~ Methanol
+}
+
+Thể tích dung dịch glucid cho vào mỗi ống nghiệm là?{
+~ 0,5 ml
+= 1 ml
+~ 2 ml
+~ 5 ml
+}
+
+Dung dịch glucid KHÔNG dùng trong TN Molish là?{
+~ Glucose
+~ Fructose
+~ Arabinose
+= Lactose
+}
+
+Nồng độ dung dịch glucid dùng trong thí nghiệm là?{
+~ 0,5%
+= 1%
+~ 2%
+~ 5%
+}
+
+Số giọt thuốc thử Molish cho vào mỗi ống nghiệm là?{
+~ 1 giọt
+~ 2 giọt
+= 3 giọt
+~ 5 giọt
+}
+
+Sau khi thêm thuốc thử Molish, thao tác tiếp theo là?{
+~ Đun nóng
+= Lắc đều
+~ Ly tâm
+~ Để yên 10 phút
+}
+
+Thể tích H2SO4 đậm đặc cho vào mỗi ống nghiệm là?{
+~ 0,5 ml
+= 1 ml
+~ 2 ml
+~ 3 ml
+}
+
+Khi cho H2SO4 đậm đặc vào ống nghiệm, thao tác đúng là?{
+~ Đổ nhanh và lắc mạnh
+~ Cho trực tiếp vào dung dịch
+= Nghiêng ống nghiệm, cho từ từ vào thành ống
+~ Cho xong lắc đều ngay
+}
+
+Mục đích của việc không làm xáo trộn hai lớp dung dịch là?{
+~ Tránh mất thuốc thử
+~ Tránh tạo bọt
+= Quan sát rõ vòng màu tím ở mặt phân cách
+~ Tránh phản ứng xảy ra
+}
+
+Hiện tượng dương tính của phản ứng Molish là?{
+~ Kết tủa trắng
+~ Dung dịch chuyển xanh
+= Xuất hiện vòng màu tím giữa hai lớp dung dịch
+~ Dung dịch sủi bọt
+}
+
+Vòng màu tím xuất hiện ở vị trí nào trong ống nghiệm?{
+~ Đáy ống
+~ Trên bề mặt
+= Giữa hai lớp dung dịch
+~ Toàn bộ dung dịch
+}
+
+Phản ứng Molish cho kết quả dương tính với?{
+~ Chỉ monosaccharid
+~ Chỉ disaccharid
+~ Chỉ polysaccharid
+= Tất cả các glucid
+}
+
+Ống nghiệm cho phản ứng Molish mạnh nhất là?{
+~ Ống 1
+~ Ống 2
+= Ống 3
+~ Ống 4
+}
+
+Thứ tự cường độ phản ứng Molish đúng là?{
+~ 1 > 2 > 3 > 4
+~ 4 > 3 > 2 > 1
+= 3 > 2 > 1 > 4
+~ 2 > 3 > 1 > 4
+}
+
+Kết luận đúng của phản ứng Molish là?{
+~ Xác định tính khử của glucid
+= Nhận biết sự có mặt của glucid trong mẫu thử
+~ Phân biệt monosaccharid
+~ Định lượng glucid
+}
+
+Ý nghĩa của phản ứng Molish là?{
+~ Xác định nồng độ glucid
+~ Tách glucid khỏi mẫu
+= Nhận biết glucid trong nước tiểu
+~ Khảo sát tính khử
+}
+
+Ứng dụng của phản ứng Molish là?{
+~ Phân biệt glucid với acid amin
+= Phân biệt glucid với lipid và protein
+~ Định lượng glucose máu
+~ Khảo sát enzym
+}
+
+"Tất cả glucid đều cho phản ứng Molish dương tính."{
+= Đúng
+~ Sai
+}
+
+"Phản ứng Molish đặc hiệu cho glucose."{
+~ Đúng
+= Sai
+}
+
+"H2SO4 đậm đặc chỉ đóng vai trò môi trường phản ứng."{
+~ Đúng
+= Sai
+}
+
+Nếu không xuất hiện vòng màu tím, kết luận nào đúng?{
+~ Mẫu có protein
+~ Mẫu có lipid
+= Mẫu không có glucid
+~ Phản ứng bị nhiễu
+}
+
+Phản ứng Molish KHÔNG dùng để?{
+~ Nhận biết glucid
+~ Phân biệt glucid với protein
+= Phân biệt các loại monosaccharid
+~ Kiểm tra glucid trong mẫu
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[===== TN PHẢN ỨNG FEHLING – BÀI 2 =====]
+
+[Phản ứng FEHLING – Bài 2]
+
+Phản ứng Fehling thuộc loại phản ứng nào?{
+~ Phản ứng định lượng
+= Phản ứng định tính
+~ Phản ứng trung hòa
+~ Phản ứng thủy phân
+}
+
+Phản ứng Fehling dùng để khảo sát tính chất nào của glucid?{
+~ Tính tan
+~ Tính quang hoạt
+= Tính khử
+~ Tính thủy phân
+}
+
+Nguyên tắc của phản ứng Fehling là?{
+~ Glucid tạo phức màu với Naphtol
+= Glucid có tính khử khử Cu2+ thành Cu2O
+~ Glucid bị oxy hóa hoàn toàn
+~ Glucid tạo kết tủa với kiềm
+}
+
+Ion kim loại bị khử trong phản ứng Fehling là?{
+~ Fe3+
+~ Ag+
+= Cu2+
+~ Zn2+
+}
+
+Sản phẩm cuối của quá trình khử trong phản ứng Fehling là?{
+~ Cu
+~ CuO
+= Cu2O
+~ Cu(OH)2
+}
+
+Kết tủa Cu2O trong phản ứng Fehling có màu gì?{
+~ Trắng
+~ Vàng
+= Đỏ gạch
+~ Nâu đen
+}
+
+Phản ứng Fehling xảy ra trong môi trường nào?{
+~ Trung tính
+~ Acid
+= Kiềm
+~ Không phụ thuộc môi trường
+}
+
+Trong môi trường kiềm, monosaccharid chuyển tạm thời sang dạng nào để thể hiện tính khử?{
+~ Aldehyd
+~ Cetone
+= Enediol
+~ Alcohol
+}
+
+Dạng enediol của monosaccharid có đặc điểm gì?{
+~ Bền vững
+= Không bền, có tính khử mạnh
+~ Không tham gia phản ứng
+~ Chỉ tồn tại trong môi trường acid
+}
+
+Thuốc thử Fehling gồm mấy dung dịch riêng biệt?{
+~ 1
+= 2
+~ 3
+~ 4
+}
+
+Thuốc thử Fehling gồm những dung dịch nào?{
+~ CuSO4 và H2SO4
+~ NaOH và CuCl2
+= Dung dịch A và dung dịch B
+~ Naphtol và H2SO4
+}
+
+Dung dịch A của Fehling chứa chất nào?{
+~ NaOH
+= CuSO4
+~ Kali natri tartrat
+~ Glucose
+}
+
+Dung dịch B của Fehling chứa các thành phần nào?{
+~ CuSO4 và nước
+~ H2SO4 và NaOH
+= NaOH và Kali natri tartrat
+~ Naphtol
+}
+
+Vai trò của Kali natri tartrat trong thuốc thử Fehling là gì?{
+~ Là chất khử
+~ Tạo màu trực tiếp
+= Giữ Cu2+ tan trong môi trường kiềm
+~ Trung hòa dung dịch
+}
+
+Khi trộn dung dịch A và B, dung dịch Fehling thu được có màu gì?{
+~ Không màu
+~ Vàng
+= Xanh thẫm
+~ Đỏ
+}
+
+Thể tích thuốc thử Fehling dùng cho mỗi ống nghiệm là?{
+~ 0,5 ml
+= 1 ml
+~ 2 ml
+~ 5 ml
+}
+
+Thể tích dung dịch glucid cho vào mỗi ống nghiệm là?{
+~ 1 ml
+= 0,5 ml
+~ 2 ml
+~ 5 ml
+}
+
+Nồng độ dung dịch glucid dùng trong thí nghiệm Fehling là?{
+~ 0,5%
+= 1%
+~ 2%
+~ 5%
+}
+
+Điều kiện cần thiết để phản ứng Fehling xảy ra là?{
+~ Để ở nhiệt độ phòng
+~ Không cần đun nóng
+= Đun nóng trong môi trường kiềm
+~ Áp suất cao
+}
+
+Thời gian đun sôi trong phản ứng Fehling thường là?{
+~ 30 giây
+~ 1 phút
+= Khoảng 3 phút
+~ 10 phút
+}
+
+Hiện tượng dương tính của phản ứng Fehling là?{
+~ Xuất hiện vòng tím
+~ Dung dịch trong suốt
+= Xuất hiện kết tủa đỏ gạch
+~ Dung dịch chuyển xanh
+}
+
+Chất nào sau đây cho phản ứng Fehling dương tính?{
+~ Saccarose
+= Glucose
+~ Tinh bột
+~ Cellulose
+}
+
+Fructose vẫn cho phản ứng Fehling dương tính vì?{
+~ Có nhóm aldehyd tự do
+~ Có tính acid
+= Chuyển hóa sang dạng aldose trong môi trường kiềm
+~ Có cấu trúc vòng
+}
+
+Lactose cho phản ứng Fehling dương tính vì?{
+~ Có cấu trúc polysaccharid
+= Là disaccharid có tính khử
+~ Tan tốt trong nước nóng
+~ Dễ thủy phân
+}
+
+Saccarose không cho phản ứng Fehling vì?{
+~ Không tan trong nước
+~ Không có liên kết glycosid
+= Không có nhóm hemiacetal tự do
+~ Không bị đun nóng
+}
+
+Ống nghiệm không xuất hiện kết tủa đỏ gạch chứng tỏ điều gì?{
+~ Phản ứng sai
+~ Thuốc thử hỏng
+= Mẫu không có glucid khử
+~ Đun chưa đủ lâu
+}
+
+Phản ứng Fehling dùng để phân biệt nhóm chất nào sau đây?{
+~ Glucid và lipid
+= Glucid khử và glucid không khử
+~ Protein và acid amin
+~ Lipid và protein
+}
+
+Ứng dụng của phản ứng Fehling là?{
+~ Định lượng protein
+~ Nhận biết lipid
+= Nhận biết glucid có tính khử
+~ Xác định enzym
+}
+
+"Phản ứng Fehling chỉ dương tính với glucose."{
+~ Đúng
+= Sai
+}
+
+"Phản ứng Fehling cần đun nóng để xảy ra."{
+= Đúng
+~ Sai
+}
+
+"Cu2O là sản phẩm oxi hóa của glucid trong phản ứng Fehling."{
+~ Đúng
+= Sai
+}
+
+"Glucid không khử sẽ không cho phản ứng Fehling."{
+= Đúng
+~ Sai
+}
+
+Phản ứng Fehling KHÔNG dùng để?{
+~ Nhận biết glucid khử
+~ Phân biệt glucose và saccarose
+= Nhận biết glucid tổng quát
+~ Khảo sát tính khử của glucid
+}
+
+
+
+
+
+
+[============================== TN3: PHẢN ỨNG MÀU CỦA POLYSACCHARID – BÀI 2 ==============================]
+
+[Phản ứng màu của Polysaccharid – Bài 2]
+
+Phản ứng màu của polysaccharid thuộc loại phản ứng nào?{
+~ Phản ứng định lượng
+= Phản ứng định tính
+~ Phản ứng oxy hóa – khử
+~ Phản ứng trung hòa
+}
+
+Phản ứng màu của polysaccharid dùng để nhận biết nhóm chất nào?{
+~ Monosaccharid
+~ Disaccharid
+= Polysaccharid
+~ Lipid
+}
+
+Thuốc thử chính dùng trong phản ứng màu của polysaccharid là?{
+~ Fehling
+~ Benedict
+= Iod
+~ Molish
+}
+
+Dung dịch iod thường dùng trong thí nghiệm là?{
+~ I2 trong nước
+= I2 hòa tan trong KI
+~ KI đơn thuần
+~ I2 trong ethanol
+}
+
+Vai trò của KI trong dung dịch iod là?{
+~ Làm phản ứng nhanh hơn
+= Giúp iod tan trong nước
+~ Tạo màu trực tiếp
+~ Trung hòa dung dịch
+}
+
+Nguyên tắc của phản ứng màu polysaccharid là?{
+~ Polysaccharid bị thủy phân
+= Iod tạo phức với cấu trúc xoắn của polysaccharid
+~ Polysaccharid bị oxy hóa
+~ Polysaccharid kết tủa
+}
+
+Polysaccharid nào cho phản ứng màu đặc trưng với iod?{
+~ Glucose
+~ Fructose
+= Tinh bột
+~ Saccarose
+}
+
+Tinh bột gồm hai thành phần chính là?{
+~ Glucose và fructose
+= Amylose và amylopectin
+~ Cellulose và glycogen
+~ Maltose và lactose
+}
+
+Thành phần nào của tinh bột tạo màu đặc trưng với iod?{
+~ Amylopectin
+= Amylose
+~ Glucose tự do
+~ Liên kết glycosid
+}
+
+Màu đặc trưng của tinh bột với iod là?{
+~ Đỏ gạch
+~ Vàng
+= Xanh tím
+~ Nâu
+}
+
+Cơ chế tạo màu xanh tím trong phản ứng iod – tinh bột là do?{
+~ Phản ứng oxy hóa
+~ Tạo muối
+= Iod chui vào lòng xoắn amylose
+~ Sự kết tủa tinh bột
+}
+
+Amylose có cấu trúc không gian như thế nào?{
+~ Mạch thẳng không xoắn
+~ Mạch phân nhánh
+= Mạch xoắn lò xo
+~ Mạch vòng
+}
+
+Amylopectin phản ứng với iod cho màu gì?{
+~ Xanh tím đậm
+= Đỏ nâu
+~ Không màu
+~ Trắng đục
+}
+
+Cellulose phản ứng với iod cho hiện tượng gì?{
+~ Màu xanh tím
+~ Màu đỏ
+= Không đổi màu
+~ Kết tủa trắng
+}
+
+Glycogen phản ứng với iod cho màu gì?{
+~ Xanh tím
+= Đỏ nâu
+~ Vàng nhạt
+~ Không màu
+}
+
+Nguyên nhân glycogen không cho màu xanh tím như tinh bột là do?{
+~ Không phải polysaccharid
+= Cấu trúc phân nhánh nhiều
+~ Không tan trong nước
+~ Không có liên kết glycosid
+}
+
+Phản ứng iod – tinh bột xảy ra ở điều kiện nào?{
+~ Môi trường acid
+~ Môi trường kiềm
+= Điều kiện thường
+~ Phải đun nóng
+}
+
+Khi đun nóng dung dịch tinh bột đã tạo màu với iod, hiện tượng gì xảy ra?{
+~ Màu đậm hơn
+= Màu mất đi
+~ Xuất hiện kết tủa
+~ Không thay đổi
+}
+
+Khi để nguội dung dịch trên, màu sẽ như thế nào?{
+~ Không xuất hiện lại
+= Màu xanh tím xuất hiện lại
+~ Chuyển sang đỏ
+~ Chuyển sang vàng
+}
+
+Hiện tượng mất màu khi đun nóng là do?{
+~ Iod bay hơi hoàn toàn
+~ Tinh bột bị phân hủy
+= Cấu trúc xoắn amylose bị phá vỡ
+~ Phản ứng bị đảo chiều
+}
+
+Phản ứng màu của polysaccharid dùng để?{
+~ Định lượng tinh bột
+~ Nhận biết glucid khử
+= Nhận biết tinh bột và polysaccharid
+~ Phân biệt protein
+}
+
+Chất nào sau đây KHÔNG cho phản ứng màu với iod?{
+~ Tinh bột
+~ Glycogen
+= Glucose
+~ Amylose
+}
+
+"Phản ứng iod – tinh bột là phản ứng hóa học tạo chất mới."{
+~ Đúng
+= Sai
+}
+
+"Chỉ polysaccharid có cấu trúc xoắn mới tạo màu xanh với iod."{
+= Đúng
+~ Sai
+}
+
+"Phản ứng iod – tinh bột có thể đảo ngược."{
+= Đúng
+~ Sai
+}
+
+"Cellulose không phản ứng màu với iod."{
+= Đúng
+~ Sai
+}
+
+Phản ứng màu của polysaccharid KHÔNG dùng để?{
+~ Nhận biết tinh bột
+~ Phân biệt polysaccharid
+= Nhận biết glucid khử
+~ Kiểm tra cấu trúc polysaccharid
+}
+
+Ý nghĩa thực hành của phản ứng iod – tinh bột là?{
+~ Xác định enzym
+~ Nhận biết lipid
+= Kiểm tra sự có mặt của tinh bột
+~ Định lượng protein
+}
+
+Trong thực tế, phản ứng iod – tinh bột được ứng dụng trong lĩnh vực nào?{
+~ Hóa dầu
+~ Dược lý
+= Kiểm tra thực phẩm
+~ Huyết học
+}
+
+
+
+
+
+
+
+
+[============================== TN4: PHẢN ỨNG ĐỊNH LƯỢNG GLUCOSE TRONG HUYẾT TƯƠNG – BÀI 2 ==============================]
+
+[Định lượng Glucose trong huyết tương – Bài 2]
+
+Phản ứng định lượng glucose trong huyết tương thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng tạo phức màu định tính
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết sự có mặt của glucose
+= Xác định nồng độ glucose trong huyết tương
+~ Phân biệt glucose và fructose
+~ Kiểm tra protein huyết tương
+}
+
+Nguyên tắc chung của phương pháp định lượng glucose là?{
+~ Glucose tạo kết tủa
+~ Glucose phát huỳnh quang
+= Glucose bị oxy hóa tạo sản phẩm màu đo được
+~ Glucose thủy phân hoàn toàn
+}
+
+Phương pháp thường dùng trong định lượng glucose huyết tương là?{
+~ Molish
+~ Iod
+= Enzym
+~ Biuret
+}
+
+Enzym thường dùng trong phương pháp định lượng glucose là?{
+~ Amylase
+~ Urease
+= Glucose oxidase
+~ Catalase
+}
+
+Phản ứng enzym glucose oxidase xúc tác biến đổi glucose thành?{
+~ Glucose-6-phosphate
+= Acid gluconic và H2O2
+~ Fructose
+~ Maltose
+}
+
+Chất nào được tạo ra trực tiếp trong phản ứng oxy hóa glucose bởi glucose oxidase?{
+~ CO2
+= H2O2
+~ O2
+~ H2O
+}
+
+Vai trò của enzym peroxidase trong phương pháp enzym là?{
+~ Oxy hóa glucose
+= Xúc tác phản ứng tạo màu từ H2O2
+~ Phân hủy protein
+~ Trung hòa môi trường
+}
+
+Màu tạo thành trong phản ứng định lượng glucose là do?{
+~ Glucose trực tiếp tạo màu
+~ Enzym tự đổi màu
+= Sản phẩm oxy hóa của chất chỉ thị màu
+~ Kết tủa kim loại
+}
+
+Cường độ màu của dung dịch phản ứng tỉ lệ với yếu tố nào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ glucose
+~ Thể tích mẫu
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Kính hiển vi
+~ Cân phân tích
+= Máy quang phổ
+~ Máy ly tâm
+}
+
+Bước sóng thường dùng để đo quang trong định lượng glucose là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 500 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn glucose dùng để làm gì?{
+~ Tạo màu nền
+= Lập đường chuẩn
+~ Trung hòa phản ứng
+~ Kiểm tra enzym
+}
+
+Đường chuẩn glucose biểu diễn mối quan hệ giữa?{
+~ Thời gian và màu sắc
+= Nồng độ glucose và độ hấp thụ
+~ Thể tích và nồng độ
+~ Nhiệt độ và phản ứng
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra thiết bị
+}
+
+Mẫu bệnh phẩm dùng trong thí nghiệm là?{
+~ Máu toàn phần
+~ Huyết thanh đông máu
+= Huyết tương
+~ Nước tiểu
+}
+
+Chất chống đông thường dùng khi lấy huyết tương định lượng glucose là?{
+~ EDTA
+= Heparin
+~ Citrate
+~ Oxalate
+}
+
+Vì sao cần định lượng glucose trong huyết tương?{
+~ Kiểm tra chức năng gan
+= Chẩn đoán và theo dõi đái tháo đường
+~ Đánh giá lipid máu
+~ Kiểm tra protein máu
+}
+
+Yếu tố nào có thể gây sai số kết quả định lượng glucose?{
+~ Nhiệt độ phản ứng không ổn định
+~ Thuốc thử hết hạn
+~ Lấy mẫu không đúng quy trình
+= Tất cả các yếu tố trên
+}
+
+Thời điểm lấy máu ảnh hưởng đến kết quả glucose vì?{
+~ Glucose không ổn định
+= Nồng độ glucose thay đổi theo bữa ăn
+~ Enzym bị bất hoạt
+~ Máy đo không chính xác
+}
+
+Giá trị glucose huyết tương bình thường lúc đói nằm trong khoảng nào?{
+~ 2–3 mmol/L
+= Khoảng 3,9–5,6 mmol/L
+~ 6,5–8 mmol/L
+~ >10 mmol/L
+}
+
+Glucose huyết tăng cao thường gặp trong bệnh nào?{
+~ Suy thận
+= Đái tháo đường
+~ Thiếu máu
+~ Viêm gan
+}
+
+Glucose huyết giảm có thể gặp trong trường hợp nào?{
+~ Đái tháo đường type 2
+= Nhịn đói kéo dài
+~ Tăng lipid máu
+~ Tăng huyết áp
+}
+
+"Phương pháp enzym cho độ đặc hiệu cao với glucose."{
+= Đúng
+~ Sai
+}
+
+"Độ hấp thụ quang không phụ thuộc nồng độ glucose."{
+~ Đúng
+= Sai
+}
+
+"Mẫu trắng không cần thiết trong định lượng glucose."{
+~ Đúng
+= Sai
+}
+
+"Phản ứng định lượng glucose là phản ứng định tính."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng glucose?{
+~ Nhiệt độ
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ enzym
+}
+
+Ý nghĩa thực hành của TN định lượng glucose là?{
+~ Nhận biết glucid
+~ Kiểm tra polysaccharid
+= Ứng dụng trong xét nghiệm sinh hóa lâm sàng
+~ Phân tích protein
+}
+
+
+
+[============================== TN5: PHẢN ỨNG TÌM GLUCOSE TRONG NƯỚC TIỂU – BÀI 2 (PHƯƠNG PHÁP BENEDICT) ==============================]
+
+[Phản ứng Benedict tìm Glucose trong nước tiểu – Bài 2]
+
+Phản ứng Benedict thuộc loại phản ứng nào?{
+~ Phản ứng định lượng
+= Phản ứng định tính
+~ Phản ứng trung hòa
+~ Phản ứng tạo phức huỳnh quang
+}
+
+Mục đích của phản ứng Benedict trong thí nghiệm này là?{
+~ Định lượng chính xác glucose
+= Phát hiện sự có mặt của glucose trong nước tiểu
+~ Phân biệt glucose và fructose
+~ Kiểm tra protein niệu
+}
+
+Nguyên tắc của phản ứng Benedict là?{
+~ Glucose tạo phức màu trực tiếp
+= Glucose có tính khử khử Cu2+ thành Cu2O trong môi trường kiềm
+~ Glucose bị thủy phân hoàn toàn
+~ Glucose bị oxy hóa bởi oxy không khí
+}
+
+Ion kim loại tham gia phản ứng Benedict là?{
+~ Fe3+
+~ Ag+
+= Cu2+
+~ Zn2+
+}
+
+Sản phẩm tạo thành khi phản ứng Benedict dương tính là?{
+~ CuO
+~ Cu
+= Cu2O
+~ Cu(OH)2
+}
+
+Thuốc thử Benedict có màu ban đầu là?{
+~ Không màu
+~ Vàng
+= Xanh lam
+~ Đỏ
+}
+
+Môi trường phản ứng Benedict là?{
+~ Acid
+~ Trung tính
+= Kiềm
+~ Không phụ thuộc môi trường
+}
+
+Điều kiện cần để phản ứng Benedict xảy ra rõ ràng là?{
+~ Để ở nhiệt độ phòng
+~ Lắc mạnh
+= Đun nóng
+~ Để yên lâu
+}
+
+Hiện tượng dương tính của phản ứng Benedict là?{
+~ Xuất hiện vòng tím
+~ Dung dịch trong suốt
+= Xuất hiện kết tủa màu từ xanh → đỏ gạch
+~ Có bọt khí
+}
+
+Màu sắc kết tủa trong phản ứng Benedict phản ánh điều gì?{
+~ Nhiệt độ phản ứng
+~ Thời gian đun
+= Nồng độ glucose trong mẫu
+~ Thể tích thuốc thử
+}
+
+Thứ tự màu kết tủa khi nồng độ glucose tăng dần là?{
+~ Đỏ → vàng → xanh
+~ Xanh → đỏ
+= Xanh → xanh lục → vàng → cam → đỏ gạch
+~ Không đổi màu
+}
+
+Mẫu thử dùng trong phản ứng Benedict là?{
+~ Máu
+~ Huyết tương
+= Nước tiểu
+~ Dịch não tủy
+}
+
+Thể tích nước tiểu thường dùng cho phản ứng Benedict là?{
+~ 0,1 ml
+= 0,5 ml
+~ 2 ml
+~ 5 ml
+}
+
+Thể tích thuốc thử Benedict thường dùng là?{
+~ 0,5 ml
+~ 1 ml
+= 5 ml
+~ 10 ml
+}
+
+Chất nào sau đây có thể cho phản ứng Benedict dương tính ngoài glucose?{
+~ Saccarose
+= Fructose
+~ Tinh bột
+~ Cellulose
+}
+
+Phản ứng Benedict không đặc hiệu vì?{
+~ Không cần đun nóng
+= Phản ứng với nhiều chất khử khác glucose
+~ Không tạo kết tủa
+~ Chỉ dùng cho nước tiểu
+}
+
+Chất nào sau đây KHÔNG cho phản ứng Benedict?{
+~ Glucose
+~ Lactose
+= Saccarose
+~ Fructose
+}
+
+Glucose xuất hiện trong nước tiểu thường gặp trong trường hợp nào?{
+~ Người khỏe mạnh
+= Đái tháo đường
+~ Thiếu máu
+~ Viêm gan
+}
+
+Hiện tượng glucose niệu xảy ra khi?{
+~ Glucose máu thấp
+~ Thận tăng lọc
+= Glucose máu vượt ngưỡng tái hấp thu của thận
+~ Uống nhiều nước
+}
+
+Ngưỡng glucose máu trung bình gây glucose niệu là khoảng?{
+~ 4 mmol/L
+~ 5 mmol/L
+= Khoảng 9–10 mmol/L
+~ >15 mmol/L
+}
+
+Phản ứng Benedict được dùng phổ biến vì?{
+~ Độ đặc hiệu cao
+~ Định lượng chính xác
+= Đơn giản, dễ thực hiện
+~ Không cần thuốc thử
+}
+
+Nhược điểm chính của phương pháp Benedict là?{
+~ Phức tạp
+= Độ đặc hiệu thấp
+~ Không quan sát được màu
+~ Không dùng được cho nước tiểu
+}
+
+Yếu tố nào có thể gây dương tính giả phản ứng Benedict?{
+~ Vitamin C
+~ Acid uric
+~ Creatinin
+= Tất cả các yếu tố trên
+}
+
+Yếu tố nào có thể gây âm tính giả?{
+~ Đun chưa đủ nhiệt
+~ Thuốc thử kém chất lượng
+~ Mẫu quá loãng
+= Tất cả các yếu tố trên
+}
+
+Phản ứng Benedict KHÔNG dùng để?{
+~ Phát hiện glucose niệu
+~ Sàng lọc ban đầu
+= Định lượng chính xác glucose
+~ Theo dõi sơ bộ bệnh đái tháo đường
+}
+
+"Phản ứng Benedict đặc hiệu cho glucose."{
+~ Đúng
+= Sai
+}
+
+"Phản ứng Benedict cần đun nóng để xảy ra."{
+= Đúng
+~ Sai
+}
+
+"Màu đỏ gạch chứng tỏ nồng độ glucose cao."{
+= Đúng
+~ Sai
+}
+
+"Nước tiểu bình thường luôn cho phản ứng Benedict dương tính."{
+~ Đúng
+= Sai
+}
+
+Ý nghĩa lâm sàng của phản ứng Benedict là?{
+~ Chẩn đoán xác định đái tháo đường
+~ Định lượng glucose máu
+= Sàng lọc phát hiện glucose niệu
+~ Đánh giá chức năng gan
+}
+
+
+
+[============================== TN1: PHẢN ỨNG ĐỊNH LƯỢNG CHOLESTEROL TOÀN PHẦN TRONG MÁU – BÀI 3 ==============================]
+
+[Định lượng Cholesterol toàn phần trong máu – Bài 3]
+
+Phản ứng định lượng cholesterol toàn phần thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết sự có mặt của cholesterol
+= Xác định nồng độ cholesterol toàn phần trong máu
+~ Phân biệt cholesterol tự do và ester
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng cholesterol là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Phương pháp thường dùng để định lượng cholesterol toàn phần là?{
+~ Molish
+~ Benedict
+= Phương pháp enzym
+~ Biuret
+}
+
+Enzym nào thủy phân cholesterol ester trong phương pháp enzym?{
+~ Cholesterol oxidase
+= Cholesterol esterase
+~ Peroxidase
+~ Lipase
+}
+
+Sau khi thủy phân, cholesterol tự do được oxy hóa bởi enzym nào?{
+~ Catalase
+= Cholesterol oxidase
+~ Peroxidase
+~ Amylase
+}
+
+Sản phẩm tạo thành trong phản ứng oxy hóa cholesterol là?{
+~ CO2 và H2O
+~ Acid béo
+= Cholestenone và H2O2
+~ Glycerol
+}
+
+Vai trò của H2O2 trong phản ứng định lượng cholesterol là?{
+~ Trung hòa môi trường
+~ Thủy phân ester
+= Tham gia phản ứng tạo màu
+~ Tạo kết tủa
+}
+
+Enzym nào xúc tác phản ứng tạo màu từ H2O2?{
+~ Oxidase
+~ Esterase
+= Peroxidase
+~ Dehydrogenase
+}
+
+Chất tạo màu trong phản ứng định lượng cholesterol là do?{
+~ Cholesterol tự đổi màu
+= Sản phẩm oxy hóa của chất chỉ thị màu
+~ Enzym kết tủa
+~ Muối kim loại
+}
+
+Cường độ màu tạo thành tỉ lệ với yếu tố nào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ cholesterol
+~ Thể tích thuốc thử
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Kính hiển vi
+~ Cân phân tích
+= Máy quang phổ
+~ Máy ly tâm
+}
+
+Bước sóng đo quang thường dùng trong định lượng cholesterol là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 500 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn cholesterol dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Đường chuẩn cholesterol biểu diễn mối quan hệ giữa?{
+~ Thời gian và màu sắc
+= Nồng độ cholesterol và độ hấp thụ
+~ Thể tích và nồng độ
+~ Nhiệt độ và phản ứng
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+Vì sao cần định lượng cholesterol toàn phần?{
+~ Đánh giá đường huyết
+= Đánh giá nguy cơ bệnh tim mạch
+~ Kiểm tra chức năng thận
+~ Chẩn đoán thiếu máu
+}
+
+Cholesterol toàn phần bao gồm?{
+~ Chỉ cholesterol tự do
+= Cholesterol tự do và cholesterol ester
+~ Chỉ cholesterol ester
+~ Cholesterol và triglycerid
+}
+
+Yếu tố nào có thể gây sai số kết quả định lượng cholesterol?{
+~ Mẫu huyết thanh bị đục
+~ Thuốc thử hết hạn
+~ Nhiệt độ không ổn định
+= Tất cả các yếu tố trên
+}
+
+Giá trị cholesterol toàn phần bình thường ở người trưởng thành là khoảng?{
+~ <3,0 mmol/L
+= <5,2 mmol/L
+~ 6,5–7,5 mmol/L
+~ >8,0 mmol/L
+}
+
+Cholesterol máu tăng cao thường liên quan đến?{
+~ Thiếu vitamin
+= Xơ vữa động mạch
+~ Thiếu máu
+~ Viêm cấp
+}
+
+Cholesterol máu giảm có thể gặp trong trường hợp nào?{
+~ Đái tháo đường
+= Suy dinh dưỡng hoặc bệnh gan nặng
+~ Tăng lipid máu
+~ Tăng huyết áp
+}
+
+"Phương pháp enzym định lượng cholesterol có độ đặc hiệu cao."{
+= Đúng
+~ Sai
+}
+
+"Cholesterol esterase tham gia giai đoạn tạo màu."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ cholesterol."{
+= Đúng
+~ Sai
+}
+
+"Mẫu huyết thanh tan huyết không ảnh hưởng kết quả."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng cholesterol?{
+~ Nhiệt độ phản ứng
+~ Chất lượng enzym
+= Màu ống nghiệm
+~ Thời gian ủ
+}
+
+Ý nghĩa thực hành của TN định lượng cholesterol là?{
+~ Nhận biết lipid
+~ Phân biệt lipid đơn giản
+= Ứng dụng trong xét nghiệm sinh hóa lâm sàng
+~ Kiểm tra protein
+}
+
+
+
+
+[============================== TN2: PHẢN ỨNG ĐỊNH LƯỢNG TRIGLYCERID – BÀI 3 ==============================]
+
+[Định lượng Triglycerid – Bài 3]
+
+Phản ứng định lượng triglycerid thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết triglycerid
+= Xác định nồng độ triglycerid trong máu
+~ Phân biệt triglycerid và phospholipid
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng triglycerid là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Phương pháp thường dùng để định lượng triglycerid là?{
+~ Molish
+~ Benedict
+= Phương pháp enzym
+~ Biuret
+}
+
+Enzym đầu tiên tham gia thủy phân triglycerid là?{
+~ Cholesterol esterase
+~ Glucose oxidase
+= Lipase
+~ Peroxidase
+}
+
+Sau khi thủy phân, triglycerid tạo thành những sản phẩm nào?{
+~ Cholesterol và acid béo
+~ Glucose và glycerol
+= Glycerol và acid béo tự do
+~ Glycerol và cholesterol
+}
+
+Glycerol sinh ra được chuyển hóa tiếp bởi enzym nào?{
+~ Lipase
+= Glycerol kinase
+~ Peroxidase
+~ Catalase
+}
+
+Sản phẩm của phản ứng xúc tác bởi glycerol kinase là?{
+~ Glycerol-1-phosphate
+= Glycerol-3-phosphate
+~ Pyruvate
+~ Lactate
+}
+
+Glycerol-3-phosphate bị oxy hóa bởi enzym nào?{
+~ Oxidase
+= Glycerol phosphate oxidase
+~ Dehydrogenase
+~ Esterase
+}
+
+Sản phẩm tạo thành trong phản ứng oxy hóa glycerol-3-phosphate là?{
+~ CO2
+~ H2O
+= H2O2
+~ O2
+}
+
+Vai trò của H2O2 trong phản ứng định lượng triglycerid là?{
+~ Trung hòa môi trường
+= Tham gia phản ứng tạo màu
+~ Thủy phân triglycerid
+~ Tạo kết tủa
+}
+
+Enzym nào xúc tác phản ứng tạo màu từ H2O2?{
+~ Lipase
+~ Oxidase
+= Peroxidase
+~ Kinase
+}
+
+Màu tạo thành trong phản ứng định lượng triglycerid là do?{
+~ Triglycerid tự đổi màu
+~ Enzym kết tủa
+= Sản phẩm oxy hóa của chất chỉ thị màu
+~ Muối kim loại
+}
+
+Cường độ màu thu được tỉ lệ thuận với yếu tố nào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ triglycerid
+~ Thể tích thuốc thử
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Kính hiển vi
+~ Cân phân tích
+= Máy quang phổ
+~ Máy ly tâm
+}
+
+Bước sóng đo quang thường dùng trong định lượng triglycerid là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 500 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn triglycerid dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Đường chuẩn triglycerid biểu diễn mối quan hệ giữa?{
+~ Thời gian và màu sắc
+= Nồng độ triglycerid và độ hấp thụ
+~ Thể tích và nồng độ
+~ Nhiệt độ và phản ứng
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+Triglycerid máu tăng cao thường liên quan đến?{
+~ Thiếu máu
+= Rối loạn lipid máu
+~ Viêm cấp
+~ Suy thận
+}
+
+Giá trị triglycerid bình thường ở người trưởng thành là?{
+~ <0,5 mmol/L
+= <1,7 mmol/L
+~ 2,5–3,5 mmol/L
+~ >5,0 mmol/L
+}
+
+Triglycerid máu tăng cao làm tăng nguy cơ nào sau đây?{
+~ Loãng xương
+~ Thiếu vitamin
+= Bệnh tim mạch
+~ Thiếu máu
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng triglycerid?{
+~ Mẫu không nhịn đói
+~ Huyết thanh đục
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao bệnh nhân cần nhịn đói trước khi xét nghiệm triglycerid?{
+~ Triglycerid không ổn định
+= Triglycerid tăng sau ăn
+~ Enzym bị ức chế
+~ Máy đo kém chính xác
+}
+
+"Phương pháp enzym định lượng triglycerid có độ đặc hiệu cao."{
+= Đúng
+~ Sai
+}
+
+"Lipase là enzym trực tiếp tạo màu trong phản ứng."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ triglycerid."{
+= Đúng
+~ Sai
+}
+
+"Mẫu huyết thanh đục có thể ảnh hưởng kết quả."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng triglycerid?{
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ enzym
+}
+
+Ý nghĩa thực hành của TN định lượng triglycerid là?{
+~ Nhận biết lipid
+~ Phân biệt lipid đơn giản
+= Ứng dụng trong xét nghiệm sinh hóa lâm sàng
+~ Kiểm tra protein
+}
+
+
+
+
+[============================== TN3: PHẢN ỨNG ĐỊNH LƯỢNG HDL-CHOLESTEROL – BÀI 3 ==============================]
+
+[Định lượng HDL-Cholesterol – Bài 3]
+
+Phản ứng định lượng HDL-cholesterol thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết HDL
+= Xác định nồng độ HDL-cholesterol trong máu
+~ Phân biệt HDL và LDL bằng màu sắc
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng trong định lượng HDL-cholesterol là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Bước xử lý mẫu đặc trưng trước khi định lượng HDL-cholesterol là?{
+~ Thủy phân lipid
+= Loại bỏ LDL và VLDL
+~ Oxy hóa cholesterol
+~ Trung hòa mẫu
+}
+
+Phương pháp cổ điển để loại bỏ LDL và VLDL là?{
+~ Ly tâm siêu tốc
+= Kết tủa chọn lọc
+~ Thủy phân enzym
+~ Điện di
+}
+
+Chất thường dùng để kết tủa LDL và VLDL là?{
+~ NaOH
+~ CuSO4
+= Phosphotungstat và ion Mg2+
+~ Iod
+}
+
+Sau khi loại LDL và VLDL, thành phần còn lại trong dịch nổi chủ yếu là?{
+~ Triglycerid
+~ LDL-cholesterol
+= HDL-cholesterol
+~ Phospholipid
+}
+
+Cholesterol trong HDL sau đó được định lượng bằng phương pháp nào?{
+~ Molish
+~ Benedict
+= Phương pháp enzym
+~ Biuret
+}
+
+Các enzym tham gia định lượng cholesterol trong HDL tương tự như?{
+~ Định lượng glucose
+~ Định lượng protein
+= Định lượng cholesterol toàn phần
+~ Định lượng triglycerid
+}
+
+Enzym nào thủy phân cholesterol ester trong HDL?{
+~ Cholesterol oxidase
+= Cholesterol esterase
+~ Peroxidase
+~ Lipase
+}
+
+Cholesterol tự do trong HDL bị oxy hóa bởi enzym nào?{
+~ Esterase
+= Cholesterol oxidase
+~ Catalase
+~ Peroxidase
+}
+
+Sản phẩm oxy hóa cholesterol tạo ra chất nào quan trọng cho phản ứng tạo màu?{
+~ CO2
+= H2O2
+~ O2
+~ H2O
+}
+
+Vai trò của peroxidase trong định lượng HDL-cholesterol là?{
+~ Thủy phân ester
+~ Oxy hóa cholesterol
+= Xúc tác phản ứng tạo màu
+~ Trung hòa môi trường
+}
+
+Cường độ màu thu được tỉ lệ thuận với yếu tố nào?{
+~ Thời gian ủ
+~ Nhiệt độ
+= Nồng độ HDL-cholesterol
+~ Thể tích mẫu
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Kính hiển vi
+~ Cân phân tích
+= Máy quang phổ
+~ Máy ly tâm
+}
+
+Bước sóng đo quang thường dùng trong định lượng HDL-cholesterol là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 500 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn HDL-cholesterol dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+HDL-cholesterol thường được gọi là?{
+~ Cholesterol xấu
+= Cholesterol tốt
+~ Cholesterol trung tính
+~ Cholesterol tự do
+}
+
+Vai trò sinh lý chính của HDL là?{
+~ Vận chuyển cholesterol từ gan ra mô
+= Vận chuyển cholesterol từ mô về gan
+~ Dự trữ lipid
+~ Tạo năng lượng
+}
+
+Nồng độ HDL-cholesterol thấp thường liên quan đến?{
+~ Giảm nguy cơ tim mạch
+= Tăng nguy cơ bệnh tim mạch
+~ Thiếu vitamin
+~ Hạ đường huyết
+}
+
+Giá trị HDL-cholesterol được coi là có lợi cho sức khỏe tim mạch là?{
+~ <0,8 mmol/L
+~ 0,8–1,0 mmol/L
+= ≥1,0 mmol/L
+~ >2,5 mmol/L
+}
+
+Yếu tố nào có thể ảnh hưởng đến kết quả định lượng HDL-cholesterol?{
+~ Mẫu không nhịn đói
+~ Huyết thanh đục
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao bệnh nhân cần nhịn đói trước xét nghiệm HDL-cholesterol?{
+~ HDL không ổn định
+= Tránh ảnh hưởng lipid sau ăn
+~ Enzym bị ức chế
+~ Máy đo không chính xác
+}
+
+"HDL-cholesterol có vai trò bảo vệ tim mạch."{
+= Đúng
+~ Sai
+}
+
+"HDL-cholesterol được định lượng trực tiếp không cần xử lý mẫu."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ HDL-cholesterol."{
+= Đúng
+~ Sai
+}
+
+"Mẫu huyết thanh đục có thể làm sai lệch kết quả."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng HDL-cholesterol?{
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ enzym
+}
+
+Ý nghĩa thực hành của TN định lượng HDL-cholesterol là?{
+~ Nhận biết lipid
+~ Phân biệt lipid đơn giản
+= Đánh giá nguy cơ bệnh tim mạch
+~ Kiểm tra protein
+}
+
+
+
+
+
+[============================== TN4: PHẢN ỨNG ĐỊNH LƯỢNG LDL-CHOLESTEROL – BÀI 3 ==============================]
+
+[Định lượng LDL-Cholesterol – Bài 3]
+
+Phản ứng định lượng LDL-cholesterol thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết LDL
+= Xác định nồng độ LDL-cholesterol trong máu
+~ Phân biệt LDL và HDL bằng màu
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng LDL-cholesterol là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+LDL-cholesterol thường được gọi là?{
+~ Cholesterol tốt
+= Cholesterol xấu
+~ Cholesterol tự do
+~ Cholesterol trung tính
+}
+
+Vai trò sinh lý chính của LDL là?{
+~ Vận chuyển cholesterol từ mô về gan
+= Vận chuyển cholesterol từ gan ra mô
+~ Dự trữ triglycerid
+~ Tạo năng lượng
+}
+
+Phương pháp gián tiếp thường dùng để ước tính LDL-cholesterol là?{
+~ Phương pháp enzym trực tiếp
+= Công thức Friedewald
+~ Phương pháp Molish
+~ Phương pháp Biuret
+}
+
+Công thức Friedewald dùng những thông số nào?{
+~ LDL, HDL, TG
+~ Cholesterol toàn phần, HDL
+= Cholesterol toàn phần, HDL, Triglycerid
+~ Glucose, Cholesterol
+}
+
+Điều kiện áp dụng công thức Friedewald là?{
+~ Triglycerid rất cao
+~ Không cần nhịn đói
+= Triglycerid < 4,5 mmol/L
+~ Chỉ dùng cho trẻ em
+}
+
+Trong công thức Friedewald, VLDL-cholesterol được ước tính bằng?{
+~ TG × 2
+~ TG / 2
+= TG / 5 (mg/dL) hoặc TG / 2,2 (mmol/L)
+~ TG + HDL
+}
+
+Phương pháp trực tiếp định lượng LDL-cholesterol sử dụng chủ yếu là?{
+~ Chuẩn độ
+= Phương pháp enzym chọn lọc
+~ Điện di
+~ Kết tủa toàn phần
+}
+
+Trong phương pháp trực tiếp, bước đặc trưng là?{
+~ Oxy hóa toàn bộ cholesterol
+= Ức chế hoặc che chắn HDL và VLDL
+~ Kết tủa LDL
+~ Trung hòa môi trường
+}
+
+Enzym thủy phân cholesterol ester trong LDL là?{
+~ Lipase
+= Cholesterol esterase
+~ Peroxidase
+~ Catalase
+}
+
+Cholesterol tự do trong LDL bị oxy hóa bởi enzym nào?{
+~ Esterase
+= Cholesterol oxidase
+~ Dehydrogenase
+~ Oxidase không đặc hiệu
+}
+
+Sản phẩm quan trọng sinh ra trong phản ứng oxy hóa cholesterol là?{
+~ CO2
+= H2O2
+~ O2
+~ H2O
+}
+
+Vai trò của peroxidase trong định lượng LDL-cholesterol là?{
+~ Thủy phân ester
+~ Oxy hóa cholesterol
+= Xúc tác phản ứng tạo màu
+~ Ổn định enzym
+}
+
+Cường độ màu tạo thành phụ thuộc chủ yếu vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ LDL-cholesterol
+~ Thể tích mẫu
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Máy ly tâm
+~ Kính hiển vi
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong định lượng LDL-cholesterol là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 500 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn LDL-cholesterol dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra máy đo
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra enzym
+}
+
+Nồng độ LDL-cholesterol tăng cao thường liên quan đến?{
+~ Giảm nguy cơ tim mạch
+= Tăng nguy cơ xơ vữa động mạch
+~ Hạ đường huyết
+~ Thiếu máu
+}
+
+Giá trị LDL-cholesterol được coi là tối ưu ở người trưởng thành là?{
+~ ≥4,1 mmol/L
+~ 3,4–4,1 mmol/L
+= <2,6 mmol/L
+~ >5,0 mmol/L
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng LDL-cholesterol?{
+~ Mẫu không nhịn đói
+~ Huyết thanh đục
+~ Triglycerid quá cao
+= Tất cả các yếu tố trên
+}
+
+Vì sao cần nhịn đói trước khi xét nghiệm LDL-cholesterol?{
+~ LDL không ổn định
+= Tránh ảnh hưởng lipid sau ăn
+~ Enzym bị ức chế
+~ Máy đo kém chính xác
+}
+
+"LDL-cholesterol cao làm tăng nguy cơ bệnh tim mạch."{
+= Đúng
+~ Sai
+}
+
+"LDL-cholesterol luôn được định lượng bằng công thức Friedewald."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ LDL-cholesterol."{
+= Đúng
+~ Sai
+}
+
+"Mẫu huyết thanh đục có thể gây sai số kết quả."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng LDL-cholesterol?{
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ enzym
+}
+
+Ý nghĩa thực hành của TN định lượng LDL-cholesterol là?{
+~ Nhận biết lipid
+~ Phân biệt lipid đơn giản
+= Đánh giá nguy cơ xơ vữa và bệnh tim mạch
+~ Kiểm tra protein
+}
+
+
+
+[============================== TN5: PHẢN ỨNG TÌM THỂ CETON TRONG NƯỚC TIỂU – BÀI 3 ==============================]
+
+[Tìm thể ceton trong nước tiểu – Bài 3]
+
+Phản ứng tìm thể ceton trong nước tiểu thuộc loại phản ứng nào?{
+~ Phản ứng định lượng
+= Phản ứng định tính
+~ Phản ứng trung hòa
+~ Phản ứng chuẩn độ
+}
+
+Mục đích của thí nghiệm là?{
+~ Định lượng glucose niệu
+= Phát hiện sự có mặt của thể ceton trong nước tiểu
+~ Định lượng lipid máu
+~ Phát hiện protein niệu
+}
+
+Nhóm chất nào được gọi chung là thể ceton?{
+~ Glucose, fructose, galactose
+~ Acid béo tự do
+= Acetoacetat, β-hydroxybutyrat, aceton
+~ Cholesterol và triglycerid
+}
+
+Thể ceton nào thường được phát hiện trực tiếp bằng phản ứng hóa học?{
+~ β-hydroxybutyrat
+~ Aceton
+= Acetoacetat
+~ Acid béo
+}
+
+Phản ứng thường dùng để tìm thể ceton trong nước tiểu là?{
+~ Molish
+~ Benedict
+= Phản ứng Rothera (Legal)
+~ Biuret
+}
+
+Thuốc thử chính trong phản ứng Rothera là?{
+~ CuSO4
+~ Acid sulfuric
+= Natri nitroprussid
+~ Iod
+}
+
+Môi trường phản ứng Rothera cần có?{
+~ Môi trường acid mạnh
+~ Môi trường trung tính
+= Môi trường kiềm
+~ Môi trường oxy hóa
+}
+
+Hiện tượng dương tính của phản ứng Rothera là?{
+~ Dung dịch chuyển màu xanh
+~ Xuất hiện kết tủa đỏ gạch
+= Xuất hiện vòng hoặc màu tím
+~ Dung dịch sủi bọt
+}
+
+Cường độ màu tím trong phản ứng Rothera phụ thuộc vào?{
+~ Thời gian phản ứng
+= Nồng độ thể ceton
+~ Nhiệt độ môi trường
+~ Thể tích mẫu
+}
+
+Nước tiểu bình thường có thể ceton không?{
+~ Có nhiều
+= Không hoặc rất ít
+~ Luôn dương tính
+~ Phụ thuộc màu nước tiểu
+}
+
+Thể ceton niệu thường gặp trong trường hợp nào?{
+~ Tăng huyết áp
+~ Viêm gan
+= Đái tháo đường không kiểm soát
+~ Thiếu máu
+}
+
+Ngoài đái tháo đường, thể ceton niệu còn gặp trong?{
+~ Chế độ ăn nhiều đường
+~ Sau bữa ăn no
+= Nhịn đói kéo dài
+~ Uống nhiều nước
+}
+
+Ý nghĩa lâm sàng của thể ceton niệu là?{
+~ Đánh giá chức năng thận
+= Đánh giá rối loạn chuyển hóa lipid và glucid
+~ Phát hiện nhiễm khuẩn tiết niệu
+~ Đánh giá thiếu máu
+}
+
+Yếu tố nào có thể gây dương tính giả phản ứng tìm thể ceton?{
+~ Nhiệt độ thấp
+~ Nước tiểu loãng
+= Một số thuốc hoặc chất oxy hóa
+~ Nước tiểu có glucose
+}
+
+Yếu tố nào có thể gây âm tính giả phản ứng Rothera?{
+~ Nước tiểu đậm màu
+= Chủ yếu có β-hydroxybutyrat
+~ Có protein niệu
+~ Có glucose niệu
+}
+
+Vì sao phản ứng Rothera không phát hiện tốt β-hydroxybutyrat?{
+~ Do không tan trong nước
+~ Do bị bay hơi
+= Do không tham gia phản ứng với nitroprussid
+~ Do bị oxy hóa hoàn toàn
+}
+
+Mẫu nước tiểu dùng để tìm thể ceton nên là?{
+~ Mẫu bất kỳ trong ngày
+= Mẫu nước tiểu mới lấy
+~ Mẫu để lâu nhiều giờ
+~ Mẫu sau khi đun nóng
+}
+
+Vì sao không nên để mẫu nước tiểu quá lâu trước khi xét nghiệm?{
+~ Thể ceton tăng dần
+= Thể ceton dễ bay hơi và phân hủy
+~ Phản ứng xảy ra mạnh hơn
+~ Nước tiểu đổi pH
+}
+
+"Phản ứng Rothera là phản ứng định tính."{
+= Đúng
+~ Sai
+}
+
+"Thể ceton niệu luôn chỉ gặp trong đái tháo đường."{
+~ Đúng
+= Sai
+}
+
+"β-hydroxybutyrat không được phát hiện trực tiếp bằng phản ứng Rothera."{
+= Đúng
+~ Sai
+}
+
+"Màu tím càng đậm chứng tỏ nồng độ thể ceton càng cao."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến kết quả phản ứng tìm thể ceton?{
+~ Thời gian bảo quản mẫu
+~ Thành phần thuốc thử
+= Màu ống nghiệm
+~ Môi trường phản ứng
+}
+
+Ý nghĩa thực hành của TN tìm thể ceton trong nước tiểu là?{
+~ Nhận biết protein
+~ Định lượng lipid máu
+= Phát hiện sớm rối loạn chuyển hóa trong lâm sàng
+~ Kiểm tra chức năng gan
+}
+
+
+
+[============================== TN1: PHẢN ỨNG ĐỊNH LƯỢNG PROTEIN TOÀN PHẦN TRONG HUYẾT THANH (PHƯƠNG PHÁP BIURET) – BÀI 4 ==============================]
+
+[Định lượng Protein toàn phần – Phương pháp Biuret – Bài 4]
+
+Phản ứng Biuret thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng chuẩn độ
+~ Phản ứng oxy hóa – khử
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết protein
+= Xác định nồng độ protein toàn phần trong huyết thanh
+~ Phân biệt albumin và globulin
+~ Phát hiện protein niệu
+}
+
+Mẫu bệnh phẩm dùng trong phản ứng Biuret là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Nguyên tắc của phản ứng Biuret dựa trên?{
+~ Phản ứng khử Cu2+
+= Sự tạo phức giữa Cu2+ và liên kết peptid
+~ Phản ứng kết tủa protein
+~ Phản ứng oxy hóa acid amin
+}
+
+Điều kiện cần thiết để phản ứng Biuret xảy ra là?{
+~ Môi trường acid
+= Môi trường kiềm
+~ Môi trường trung tính
+~ Môi trường oxy hóa mạnh
+}
+
+Thuốc thử Biuret chứa thành phần chính nào?{
+~ FeCl3
+~ AgNO3
+= CuSO4 trong môi trường kiềm
+~ Iod
+}
+
+Ion kim loại trung tâm tạo phức màu trong phản ứng Biuret là?{
+~ Fe3+
+~ Ag+
+= Cu2+
+~ Zn2+
+}
+
+Phản ứng Biuret cho màu gì khi dương tính?{
+~ Màu xanh lục
+~ Màu đỏ gạch
+= Màu tím
+~ Màu vàng
+}
+
+Cường độ màu tím trong phản ứng Biuret phụ thuộc vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ protein
+~ Thể tích thuốc thử
+}
+
+Phản ứng Biuret cần tối thiểu bao nhiêu liên kết peptid để xảy ra?{
+~ 1 liên kết
+~ 2 liên kết
+= Từ 2 liên kết peptid trở lên
+~ Chỉ cần acid amin tự do
+}
+
+Chất nào sau đây KHÔNG cho phản ứng Biuret dương tính?{
+~ Albumin
+~ Globulin
+= Acid amin tự do
+~ Peptid dài
+}
+
+Thiết bị dùng để đo cường độ màu trong phản ứng Biuret là?{
+~ Máy ly tâm
+~ Kính hiển vi
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong phản ứng Biuret là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 540–560 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn protein dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra thuốc thử
+~ Tạo màu nền
+}
+
+Đường chuẩn Biuret biểu diễn mối quan hệ giữa?{
+~ Thời gian và màu sắc
+= Nồng độ protein và độ hấp thụ
+~ Thể tích và nồng độ
+~ Nhiệt độ và phản ứng
+}
+
+Mẫu trắng trong phản ứng Biuret có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra enzym
+}
+
+Protein toàn phần trong huyết thanh gồm chủ yếu?{
+~ Albumin và hemoglobin
+= Albumin và globulin
+~ Globulin và fibrin
+~ Fibrin và enzym
+}
+
+Thành phần chiếm tỉ lệ cao nhất trong protein huyết thanh là?{
+~ Globulin
+= Albumin
+~ Fibrinogen
+~ Lipoprotein
+}
+
+Giá trị protein toàn phần bình thường ở người trưởng thành là?{
+~ 40–50 g/L
+~ 50–60 g/L
+= 60–80 g/L
+~ 90–100 g/L
+}
+
+Protein toàn phần tăng thường gặp trong trường hợp nào?{
+~ Suy dinh dưỡng
+= Mất nước
+~ Xơ gan
+~ Hội chứng thận hư
+}
+
+Protein toàn phần giảm thường gặp trong trường hợp nào?{
+~ Mất nước
+~ Đa hồng cầu
+= Suy gan, suy dinh dưỡng
+~ Tăng lipid máu
+}
+
+Yếu tố nào có thể gây sai lệch kết quả phản ứng Biuret?{
+~ Huyết thanh đục
+~ Tan huyết
+~ Thuốc thử không đạt chuẩn
+= Tất cả các yếu tố trên
+}
+
+Vì sao phản ứng Biuret không dùng cho nước tiểu bình thường?{
+~ Nước tiểu có màu
+= Nồng độ protein quá thấp
+~ Môi trường acid
+~ Có nhiều glucose
+}
+
+"Phản ứng Biuret đặc hiệu cho liên kết peptid."{
+= Đúng
+~ Sai
+}
+
+"Cường độ màu tím tỉ lệ thuận với nồng độ protein."{
+= Đúng
+~ Sai
+}
+
+"Acid amin tự do cho phản ứng Biuret dương tính."{
+~ Đúng
+= Sai
+}
+
+"Phản ứng Biuret cần môi trường kiềm để xảy ra."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng Biuret?{
+~ Nhiệt độ phản ứng
+~ Nồng độ thuốc thử
+= Màu ống nghiệm
+~ Thời gian ủ
+}
+
+Ý nghĩa thực hành của TN định lượng protein toàn phần là?{
+~ Nhận biết protein
+~ Phân biệt acid amin
+= Đánh giá tình trạng dinh dưỡng và bệnh lý gan, thận
+~ Kiểm tra lipid máu
+}
+
+
+
+[============================== TN2: PHẢN ỨNG ĐỊNH LƯỢNG ACID URIC – BÀI 4 ==============================]
+
+[Định lượng Acid Uric – Bài 4]
+
+Phản ứng định lượng acid uric thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết acid uric
+= Xác định nồng độ acid uric trong máu
+~ Phân biệt purin và pyrimidin
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng acid uric là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Acid uric là sản phẩm cuối của quá trình chuyển hóa chất nào?{
+~ Glucid
+~ Lipid
+= Purin
+~ Protein
+}
+
+Phương pháp thường dùng để định lượng acid uric hiện nay là?{
+~ Phương pháp hóa học cổ điển
+= Phương pháp enzym
+~ Phương pháp chuẩn độ
+~ Phương pháp kết tủa
+}
+
+Enzym đặc hiệu tham gia phản ứng định lượng acid uric là?{
+~ Peroxidase
+~ Catalase
+= Uricase
+~ Oxidase không đặc hiệu
+}
+
+Sản phẩm tạo thành khi acid uric bị oxy hóa bởi uricase là?{
+~ Acid lactic
+~ Acid acetic
+= Allantoin
+~ Urea
+}
+
+Chất nào được tạo ra đồng thời trong phản ứng oxy hóa acid uric?{
+~ CO2
+= H2O2
+~ O2
+~ NH3
+}
+
+Vai trò của H2O2 trong phản ứng định lượng acid uric là?{
+~ Trung hòa môi trường
+= Tham gia phản ứng tạo màu
+~ Kết tủa acid uric
+~ Ức chế enzym
+}
+
+Enzym nào xúc tác phản ứng tạo màu từ H2O2?{
+~ Uricase
+= Peroxidase
+~ Oxidase
+~ Dehydrogenase
+}
+
+Cường độ màu thu được trong phản ứng phụ thuộc vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ acid uric
+~ Thể tích thuốc thử
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Máy ly tâm
+~ Kính hiển vi
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong định lượng acid uric là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 520 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn acid uric dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+Giá trị acid uric máu bình thường ở người trưởng thành là?{
+~ <150 µmol/L
+~ 150–250 µmol/L
+= 180–420 µmol/L
+~ >500 µmol/L
+}
+
+Acid uric máu tăng cao thường gặp trong bệnh nào?{
+~ Đái tháo đường
+~ Thiếu máu
+= Gout
+~ Viêm gan
+}
+
+Ngoài bệnh gout, acid uric tăng còn gặp trong?{
+~ Suy dinh dưỡng
+~ Viêm dạ dày
+= Suy thận
+~ Hạ đường huyết
+}
+
+Acid uric máu giảm có thể gặp trong?{
+~ Gout
+~ Suy thận
+= Bệnh gan nặng
+~ Mất nước
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng acid uric?{
+~ Tan huyết
+~ Huyết thanh đục
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao bệnh nhân nên nhịn đói trước khi xét nghiệm acid uric?{
+~ Acid uric không ổn định
+= Tránh ảnh hưởng chế độ ăn giàu purin
+~ Enzym bị ức chế
+~ Máy đo kém chính xác
+}
+
+"Acid uric là sản phẩm cuối của chuyển hóa purin."{
+= Đúng
+~ Sai
+}
+
+"Phương pháp enzym định lượng acid uric có độ đặc hiệu cao."{
+= Đúng
+~ Sai
+}
+
+"Uricase là enzym tạo màu trong phản ứng."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ acid uric."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng acid uric?{
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ enzym
+}
+
+Ý nghĩa thực hành của TN định lượng acid uric là?{
+~ Nhận biết acid uric
+~ Phân biệt purin
+= Đánh giá rối loạn chuyển hóa purin và bệnh gout
+~ Kiểm tra protein huyết thanh
+}
+
+
+
+
+[============================== TN3: PHẢN ỨNG ĐỊNH LƯỢNG URÊ – BÀI 4 ==============================]
+
+[Định lượng Urê – Bài 4]
+
+Phản ứng định lượng urê thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết urê
+= Xác định nồng độ urê trong máu
+~ Phân biệt urê và creatinin
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng urê là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Urê là sản phẩm cuối của quá trình chuyển hóa chất nào?{
+~ Glucid
+~ Lipid
+= Protein
+~ Acid nucleic
+}
+
+Phương pháp thường dùng để định lượng urê hiện nay là?{
+~ Phương pháp hóa học cổ điển
+= Phương pháp enzym
+~ Phương pháp chuẩn độ
+~ Phương pháp kết tủa
+}
+
+Enzym đặc hiệu tham gia phản ứng định lượng urê là?{
+~ Uricase
+~ Peroxidase
+= Urease
+~ Catalase
+}
+
+Sản phẩm tạo thành khi urê bị thủy phân bởi urease là?{
+~ Acid uric
+~ Creatinin
+= NH3 và CO2
+~ Urea ester
+}
+
+Trong phương pháp enzym định lượng urê, NH3 sinh ra được sử dụng để?{
+~ Tạo kết tủa
+~ Trung hòa môi trường
+= Tham gia phản ứng tạo màu
+~ Ức chế enzym
+}
+
+Phương pháp Berthelot trong định lượng urê dựa trên phản ứng của?{
+~ CO2
+= NH3 với phenol và hypochlorite
+~ Urê với Cu2+
+~ NH3 với acid mạnh
+}
+
+Màu tạo thành trong phản ứng Berthelot là?{
+~ Màu tím
+~ Màu vàng
+= Màu xanh lam
+~ Màu đỏ gạch
+}
+
+Ngoài phương pháp Berthelot, urê còn được định lượng bằng phương pháp nào?{
+~ Molish
+~ Benedict
+= Phương pháp UV (GLDH)
+~ Biuret
+}
+
+Trong phương pháp UV, NH3 sinh ra được sử dụng để?{
+~ Tạo màu trực tiếp
+= Tiêu thụ NADH
+~ Oxy hóa glucose
+~ Khử Cu2+
+}
+
+Cường độ màu hoặc độ giảm hấp thụ quang trong phản ứng phụ thuộc vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ urê
+~ Thể tích thuốc thử
+}
+
+Thiết bị dùng để đo tín hiệu phản ứng định lượng urê là?{
+~ Máy ly tâm
+~ Kính hiển vi
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong phương pháp UV định lượng urê là?{
+~ 280 nm
+= 340 nm
+~ 520 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn urê dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+Giá trị urê máu bình thường ở người trưởng thành là?{
+~ <2 mmol/L
+= 2,5–7,8 mmol/L
+~ 8–12 mmol/L
+~ >15 mmol/L
+}
+
+Urê máu tăng cao thường gặp trong trường hợp nào?{
+~ Suy gan
+~ Thiếu dinh dưỡng
+= Suy thận
+~ Hạ đường huyết
+}
+
+Urê máu giảm thường gặp trong trường hợp nào?{
+~ Suy thận
+= Suy gan
+~ Mất nước
+~ Đa hồng cầu
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng urê?{
+~ Tan huyết
+~ Huyết thanh đục
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao bệnh nhân nên nhịn đói trước khi xét nghiệm urê?{
+~ Urê không ổn định
+= Tránh ảnh hưởng chế độ ăn giàu protein
+~ Enzym bị ức chế
+~ Máy đo kém chính xác
+}
+
+"Urê là sản phẩm cuối của chuyển hóa protein."{
+= Đúng
+~ Sai
+}
+
+"Urease là enzym tạo màu trong phản ứng."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ urê."{
+= Đúng
+~ Sai
+}
+
+"Urê máu tăng là dấu hiệu đặc trưng của suy thận."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng urê?{
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ enzym
+}
+
+Ý nghĩa thực hành của TN định lượng urê là?{
+~ Nhận biết urê
+~ Phân biệt hợp chất nitơ
+= Đánh giá chức năng thận và chuyển hóa protein
+~ Kiểm tra lipid máu
+}
+
+
+
+
+[============================== TN4: PHẢN ỨNG ĐỊNH LƯỢNG CREATININ – BÀI 4 ==============================]
+
+[Định lượng Creatinin – Bài 4]
+
+Phản ứng định lượng creatinin thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết creatinin
+= Xác định nồng độ creatinin trong máu
+~ Phân biệt creatinin và urê
+~ Kiểm tra protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng creatinin là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Creatinin là sản phẩm chuyển hóa của chất nào?{
+~ Glucid
+~ Lipid
+= Creatin phosphate trong cơ
+~ Acid nucleic
+}
+
+Phương pháp cổ điển thường dùng để định lượng creatinin là?{
+~ Phương pháp enzym
+= Phản ứng Jaffé
+~ Phương pháp chuẩn độ
+~ Phương pháp Biuret
+}
+
+Nguyên tắc của phản ứng Jaffé dựa trên?{
+~ Phản ứng oxy hóa – khử
+= Phản ứng tạo phức với picrat kiềm
+~ Phản ứng kết tủa
+~ Phản ứng thủy phân
+}
+
+Chất tạo phức màu trong phản ứng Jaffé là?{
+~ Cu2+
+~ Fe3+
+= Picrat kiềm
+~ Iod
+}
+
+Màu tạo thành trong phản ứng Jaffé là?{
+~ Màu tím
+~ Màu xanh
+= Màu vàng cam
+~ Màu đỏ gạch
+}
+
+Cường độ màu tạo thành trong phản ứng Jaffé phụ thuộc vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ creatinin
+~ Thể tích thuốc thử
+}
+
+Hạn chế lớn nhất của phản ứng Jaffé là?{
+~ Độ nhạy thấp
+~ Khó thực hiện
+= Kém đặc hiệu
+~ Giá thành cao
+}
+
+Những chất nào có thể gây nhiễu trong phản ứng Jaffé?{
+~ Glucose
+~ Acid ascorbic
+~ Protein
+= Tất cả các chất trên
+}
+
+Phương pháp enzym định lượng creatinin có ưu điểm gì?{
+~ Giá rẻ
+= Độ đặc hiệu cao
+~ Không cần máy đo
+~ Không cần thuốc thử
+}
+
+Enzym thường dùng trong phương pháp enzym định lượng creatinin là?{
+~ Urease
+~ Uricase
+= Creatininase / Creatinase
+~ Peroxidase
+}
+
+Sản phẩm trung gian tạo thành trong phương pháp enzym định lượng creatinin là?{
+~ Urea
+~ Acid uric
+= Creatin
+~ Glucose
+}
+
+Trong phương pháp enzym, H2O2 được tạo ra để?{
+~ Trung hòa môi trường
+= Tham gia phản ứng tạo màu
+~ Thủy phân creatinin
+~ Ức chế enzym
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Máy ly tâm
+~ Kính hiển vi
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong phản ứng Jaffé là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 500 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn creatinin dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+Giá trị creatinin máu bình thường ở người trưởng thành là?{
+~ <50 µmol/L
+~ 50–80 µmol/L
+= 62–120 µmol/L
+~ >150 µmol/L
+}
+
+Creatinin máu tăng cao thường gặp trong trường hợp nào?{
+~ Suy gan
+~ Thiếu máu
+= Suy thận
+~ Hạ đường huyết
+}
+
+Creatinin máu là chỉ số đánh giá chủ yếu chức năng của cơ quan nào?{
+~ Gan
+~ Tim
+= Thận
+~ Phổi
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng creatinin?{
+~ Tan huyết
+~ Huyết thanh đục
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao phản ứng Jaffé hiện nay dần được thay thế bằng phương pháp enzym?{
+~ Quá phức tạp
+~ Thời gian dài
+= Do kém đặc hiệu
+~ Không đo được
+}
+
+"Creatinin là sản phẩm chuyển hóa của creatin phosphate trong cơ."{
+= Đúng
+~ Sai
+}
+
+"Phản ứng Jaffé có độ đặc hiệu cao."{
+~ Đúng
+= Sai
+}
+
+"Độ hấp thụ quang tỉ lệ thuận với nồng độ creatinin."{
+= Đúng
+~ Sai
+}
+
+"Creatinin máu phản ánh chức năng lọc của thận."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng creatinin?{
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Màu ống nghiệm
+~ Nồng độ thuốc thử
+}
+
+Ý nghĩa thực hành của TN định lượng creatinin là?{
+~ Nhận biết creatinin
+~ Phân biệt hợp chất nitơ
+= Đánh giá chức năng thận và theo dõi bệnh thận
+~ Kiểm tra lipid máu
+}
+
+
+
+
+[============================== TN1: PHẢN ỨNG ĐỊNH LƯỢNG BILIRUBIN TOÀN PHẦN – BÀI 5 ==============================]
+
+[Định lượng Bilirubin toàn phần – Bài 5]
+
+Phản ứng định lượng bilirubin toàn phần thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết bilirubin
+= Xác định nồng độ bilirubin toàn phần trong máu
+~ Phân biệt protein huyết thanh
+~ Đánh giá lipid máu
+}
+
+Mẫu bệnh phẩm dùng để định lượng bilirubin là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Bilirubin là sản phẩm chuyển hóa của chất nào?{
+~ Protein
+~ Acid nucleic
+= Hemoglobin
+~ Lipid
+}
+
+Bilirubin toàn phần bao gồm những dạng nào?{
+~ Bilirubin tự do và bilirubin ester
+= Bilirubin trực tiếp và bilirubin gián tiếp
+~ Bilirubin tự do và urobilin
+~ Biliverdin và urobilin
+}
+
+Phương pháp phổ biến dùng để định lượng bilirubin toàn phần là?{
+~ Phản ứng Biuret
+~ Phản ứng Benedict
+= Phản ứng Diazo
+~ Phản ứng Molish
+}
+
+Nguyên tắc của phản ứng Diazo dựa trên?{
+~ Phản ứng oxy hóa – khử
+= Phản ứng tạo phức azo có màu
+~ Phản ứng kết tủa
+~ Phản ứng trung hòa
+}
+
+Thuốc thử Diazo được tạo thành từ sự kết hợp của?{
+~ Acid sulfuric và NaOH
+~ CuSO4 và NaOH
+= Acid sulfanilic và natri nitrit
+~ Iod và KI
+}
+
+Bilirubin trực tiếp còn được gọi là?{
+~ Bilirubin tự do
+= Bilirubin liên hợp
+~ Bilirubin không tan
+~ Bilirubin tiền chất
+}
+
+Bilirubin gián tiếp còn được gọi là?{
+~ Bilirubin liên hợp
+= Bilirubin tự do
+~ Bilirubin tan trong nước
+~ Bilirubin oxi hóa
+}
+
+Trong phản ứng Diazo, bilirubin gián tiếp cần thêm chất nào để phản ứng?{
+~ Nước cất
+~ Acid mạnh
+= Chất tăng tốc (alcohol)
+~ Chất oxy hóa
+}
+
+Màu tạo thành trong phản ứng Diazo là?{
+~ Màu xanh
+~ Màu tím
+= Màu hồng tím
+~ Màu vàng
+}
+
+Cường độ màu tạo thành phụ thuộc chủ yếu vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ bilirubin
+~ Thể tích thuốc thử
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Kính hiển vi
+~ Máy ly tâm
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong định lượng bilirubin là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 540 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn bilirubin dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra enzym
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra máy đo
+}
+
+Giá trị bilirubin toàn phần bình thường ở người trưởng thành là?{
+~ <5 µmol/L
+= 5–17 µmol/L
+~ 20–40 µmol/L
+~ >50 µmol/L
+}
+
+Bilirubin toàn phần tăng cao thường gặp trong tình trạng nào?{
+~ Thiếu máu do thiếu sắt
+~ Viêm tụy
+= Vàng da
+~ Đái tháo đường
+}
+
+Bilirubin trực tiếp tăng chủ yếu gặp trong?{
+~ Tan máu
+= Tắc mật
+~ Thiếu men G6PD
+~ Suy dinh dưỡng
+}
+
+Bilirubin gián tiếp tăng chủ yếu gặp trong?{
+~ Tắc mật
+= Tan máu
+~ Viêm đường mật
+~ Sỏi mật
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng bilirubin?{
+~ Mẫu bị tan huyết
+~ Mẫu tiếp xúc ánh sáng
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao cần tránh ánh sáng khi bảo quản mẫu bilirubin?{
+~ Bilirubin tan trong nước
+= Bilirubin dễ bị phân hủy bởi ánh sáng
+~ Phản ứng xảy ra mạnh hơn
+~ Ảnh hưởng màu thuốc thử
+}
+
+"Phản ứng Diazo dùng để định lượng bilirubin."{
+= Đúng
+~ Sai
+}
+
+"Bilirubin trực tiếp là dạng tan trong nước."{
+= Đúng
+~ Sai
+}
+
+"Bilirubin gián tiếp phản ứng trực tiếp với thuốc thử Diazo."{
+~ Đúng
+= Sai
+}
+
+"Cường độ màu trong phản ứng Diazo tỉ lệ thuận với nồng độ bilirubin."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng bilirubin?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Màu ống nghiệm
+~ Chất lượng thuốc thử
+}
+
+Ý nghĩa thực hành của TN định lượng bilirubin toàn phần là?{
+~ Nhận biết sắc tố mật
+~ Phân biệt các loại protein
+= Đánh giá chức năng gan và tình trạng vàng da
+~ Kiểm tra lipid máu
+}
+
+
+
+
+[============================== TN2: PHẢN ỨNG ĐỊNH LƯỢNG BILIRUBIN TRỰC TIẾP – BÀI 5 ==============================]
+
+[Định lượng Bilirubin trực tiếp – Bài 5]
+
+Phản ứng định lượng bilirubin trực tiếp thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết bilirubin
+= Xác định nồng độ bilirubin trực tiếp trong máu
+~ Phân biệt lipid máu
+~ Đánh giá protein huyết thanh
+}
+
+Mẫu bệnh phẩm dùng để định lượng bilirubin trực tiếp là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Bilirubin trực tiếp còn được gọi là?{
+~ Bilirubin tự do
+= Bilirubin liên hợp
+~ Bilirubin không tan
+~ Bilirubin tiền chất
+}
+
+Đặc điểm của bilirubin trực tiếp là?{
+~ Không tan trong nước
+~ Không gắn với acid glucuronic
+= Tan trong nước
+~ Không phản ứng với Diazo
+}
+
+Bilirubin trực tiếp được tạo thành ở đâu?{
+~ Lách
+~ Máu
+= Gan
+~ Ruột
+}
+
+Trong phản ứng Diazo, bilirubin trực tiếp phản ứng như thế nào?{
+~ Phải thêm chất tăng tốc
+= Phản ứng trực tiếp với thuốc thử Diazo
+~ Không tạo màu
+~ Phải đun nóng
+}
+
+Nguyên tắc định lượng bilirubin trực tiếp dựa trên?{
+~ Phản ứng oxy hóa – khử
+= Phản ứng Diazo trực tiếp tạo màu
+~ Phản ứng kết tủa
+~ Phản ứng thủy phân
+}
+
+Thuốc thử chính dùng trong phản ứng Diazo là?{
+~ CuSO4
+~ NaOH
+= Thuốc thử Diazo
+~ Iod
+}
+
+Màu tạo thành trong phản ứng Diazo với bilirubin trực tiếp là?{
+~ Màu xanh
+~ Màu vàng
+= Màu hồng tím
+~ Màu nâu
+}
+
+Cường độ màu tạo thành phụ thuộc chủ yếu vào?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Nồng độ bilirubin trực tiếp
+~ Thể tích mẫu
+}
+
+Thiết bị dùng để đo cường độ màu là?{
+~ Máy ly tâm
+~ Kính hiển vi
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Bước sóng đo quang thường dùng trong định lượng bilirubin trực tiếp là?{
+~ 280 nm
+~ 340 nm
+= Khoảng 540 nm
+~ 700 nm
+}
+
+Dung dịch chuẩn bilirubin trực tiếp dùng để?{
+~ Trung hòa phản ứng
+= Lập đường chuẩn
+~ Kiểm tra máy
+~ Tạo màu nền
+}
+
+Mẫu trắng trong thí nghiệm có vai trò gì?{
+~ Là mẫu bệnh phẩm
+= Loại trừ ảnh hưởng nền thuốc thử
+~ Tạo đường chuẩn
+~ Kiểm tra độ đục
+}
+
+Giá trị bilirubin trực tiếp bình thường ở người trưởng thành là?{
+~ <2 µmol/L
+= <5 µmol/L
+~ 10–20 µmol/L
+~ >20 µmol/L
+}
+
+Bilirubin trực tiếp tăng cao thường gặp trong tình trạng nào?{
+~ Tan máu
+= Tắc mật
+~ Thiếu máu
+~ Suy dinh dưỡng
+}
+
+Bilirubin trực tiếp tăng phản ánh rối loạn chủ yếu ở?{
+~ Quá trình phá hủy hồng cầu
+~ Quá trình liên hợp
+= Quá trình bài tiết mật
+~ Quá trình hấp thu ruột
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng bilirubin trực tiếp?{
+~ Mẫu tiếp xúc ánh sáng
+~ Mẫu tan huyết
+~ Thuốc thử kém chất lượng
+= Tất cả các yếu tố trên
+}
+
+Vì sao cần tránh ánh sáng khi làm xét nghiệm bilirubin?{
+~ Bilirubin dễ tan trong nước
+= Bilirubin bị phân hủy bởi ánh sáng
+~ Phản ứng xảy ra mạnh hơn
+~ Ảnh hưởng nhiệt độ
+}
+
+"Phản ứng Diazo trực tiếp dùng để định lượng bilirubin trực tiếp."{
+= Đúng
+~ Sai
+}
+
+"Bilirubin trực tiếp tan trong nước."{
+= Đúng
+~ Sai
+}
+
+"Bilirubin trực tiếp cần chất tăng tốc để phản ứng với Diazo."{
+~ Đúng
+= Sai
+}
+
+"Cường độ màu tạo thành tỉ lệ thuận với nồng độ bilirubin trực tiếp."{
+= Đúng
+~ Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng bilirubin trực tiếp?{
+~ Thời gian phản ứng
+~ Nhiệt độ
+= Màu ống nghiệm
+~ Chất lượng thuốc thử
+}
+
+Ý nghĩa thực hành của TN định lượng bilirubin trực tiếp là?{
+~ Nhận biết sắc tố mật
+~ Phân biệt protein huyết thanh
+= Đánh giá tình trạng tắc mật và chức năng gan
+~ Kiểm tra lipid máu
+}
+
+
+
+
+[============================== TN3: PHẢN ỨNG TÌM HEMOGLOBIN TRONG NƯỚC TIỂU (PHẢN ỨNG MAYER) – BÀI 5 ==============================]
+
+[Phản ứng Mayer – Tìm Hemoglobin trong nước tiểu – Bài 5]
+
+Phản ứng Mayer dùng để khảo sát chất nào trong nước tiểu?{
+~ Protein toàn phần
+~ Glucose
+= Hemoglobin
+~ Bilirubin
+}
+
+Phản ứng Mayer thuộc loại phản ứng nào?{
+~ Phản ứng định lượng
+= Phản ứng định tính
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Xác định nồng độ hemoglobin
+= Phát hiện sự có mặt của hemoglobin trong nước tiểu
+~ Đánh giá chức năng gan
+~ Định lượng protein niệu
+}
+
+Nguyên tắc của phản ứng Mayer dựa trên?{
+~ Phản ứng trung hòa
+~ Phản ứng kết tủa
+= Phản ứng oxy hóa tạo màu
+~ Phản ứng thủy phân
+}
+
+Trong phản ứng Mayer, hemoglobin đóng vai trò là?{
+~ Chất khử
+~ Chất kết tủa
+= Chất xúc tác giả peroxidase
+~ Chất nền
+}
+
+Thuốc thử chính dùng trong phản ứng Mayer là?{
+~ Thuốc thử Biuret
+~ Thuốc thử Diazo
+= Thuốc thử Mayer
+~ Thuốc thử Benedict
+}
+
+Màu xuất hiện khi phản ứng Mayer dương tính là?{
+~ Màu vàng
+~ Màu xanh
+= Màu xanh lục hoặc xanh lam
+~ Màu đỏ gạch
+}
+
+Sự xuất hiện màu trong phản ứng Mayer chứng tỏ điều gì?{
+~ Có glucose niệu
+~ Có protein niệu
+= Có hemoglobin trong nước tiểu
+~ Có bilirubin niệu
+}
+
+Phản ứng Mayer có thể phát hiện được?{
+~ Hồng cầu nguyên vẹn
+= Hemoglobin tự do
+~ Bạch cầu
+~ Protein huyết tương
+}
+
+Trường hợp nào sau đây có thể gây hemoglobin niệu?{
+~ Viêm gan
+~ Đái tháo đường
+= Tan máu trong lòng mạch
+~ Suy dinh dưỡng
+}
+
+Điểm khác nhau cơ bản giữa hemoglobin niệu và hồng cầu niệu là?{
+~ Màu nước tiểu
+= Có hay không sự hiện diện của hồng cầu dưới kính hiển vi
+~ Nồng độ protein
+~ pH nước tiểu
+}
+
+Kết quả phản ứng Mayer dương tính nhưng soi kính hiển vi không thấy hồng cầu gợi ý?{
+~ Hồng cầu niệu
+~ Nhiễm khuẩn tiết niệu
+= Hemoglobin niệu
+~ Protein niệu
+}
+
+Yếu tố nào có thể gây dương tính giả trong phản ứng Mayer?{
+~ Chất oxy hóa mạnh
+~ Thuốc sát khuẩn
+~ Myoglobin
+= Tất cả các yếu tố trên
+}
+
+Myoglobin niệu có thể gây nhầm lẫn với hemoglobin niệu vì?{
+~ Có màu tương tự
+~ Cùng phản ứng oxy hóa
+= Cho phản ứng Mayer dương tính
+~ Có cấu trúc giống hồng cầu
+}
+
+Mẫu nước tiểu dùng cho phản ứng Mayer nên là?{
+~ Nước tiểu để lâu
+~ Nước tiểu có bảo quản formol
+= Nước tiểu mới lấy
+~ Nước tiểu sau ly tâm
+}
+
+Vì sao không nên dùng nước tiểu để lâu khi làm phản ứng Mayer?{
+~ Thay đổi pH
+~ Phân hủy hemoglobin
+~ Ảnh hưởng màu phản ứng
+= Tất cả các ý trên
+}
+
+Phản ứng Mayer KHÔNG dùng để phát hiện chất nào sau đây?{
+~ Hemoglobin
+= Glucose
+~ Myoglobin
+~ Các chất có hoạt tính peroxidase
+}
+
+"Phản ứng Mayer là phản ứng định tính."{
+= Đúng
+~ Sai
+}
+
+"Hemoglobin niệu thường gặp trong tan máu nội mạch."{
+= Đúng
+~ Sai
+}
+
+"Myoglobin có thể gây dương tính giả phản ứng Mayer."{
+= Đúng
+~ Sai
+}
+
+"Phản ứng Mayer cho phép phân biệt chính xác hemoglobin và myoglobin."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng Mayer?{
+~ Chất oxy hóa trong nước tiểu
+~ Thời gian đọc kết quả
+= Màu ống nghiệm
+~ Chất lượng thuốc thử
+}
+
+Ý nghĩa thực hành của TN phản ứng Mayer là?{
+~ Định lượng hemoglobin
+~ Đánh giá chức năng gan
+= Phát hiện hemoglobin niệu và hỗ trợ chẩn đoán tan máu
+~ Xác định glucose niệu
+}
+
+
+
+[============================== TN4: ĐỊNH LƯỢNG ALT / GPT – BÀI 5 ==============================]
+
+[Định lượng ALT (GPT) – Bài 5]
+
+ALT còn được gọi là?{
+~ AST
+= GPT
+~ ALP
+~ GGT
+}
+
+ALT là enzym xúc tác phản ứng nào?{
+~ Oxy hóa acid béo
+= Chuyển amin giữa alanin và α-ketoglutarat
+~ Thủy phân protein
+~ Khử carboxyl
+}
+
+Cơ chất chính của ALT trong phản ứng là?{
+~ Aspartat
+= Alanin
+~ Glucose
+~ Pyruvat
+}
+
+Sản phẩm tạo thành trực tiếp từ phản ứng do ALT xúc tác là?{
+~ Oxaloacetat
+= Pyruvat
+~ Lactat
+~ Acetyl-CoA
+}
+
+Phản ứng định lượng ALT thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng enzym
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Nguyên tắc của phương pháp định lượng ALT hiện nay là?{
+~ Đo màu trực tiếp
+= Phương pháp enzym động học
+~ Phương pháp chuẩn độ
+~ Phương pháp kết tủa
+}
+
+Trong phương pháp enzym động học, phản ứng ALT được ghép với enzym nào?{
+~ Urease
+~ Creatininase
+= Lactat dehydrogenase (LDH)
+~ Peroxidase
+}
+
+Vai trò của LDH trong phản ứng ghép là?{
+~ Xúc tác phản ứng chuyển amin
+= Chuyển pyruvat thành lactat
+~ Oxy hóa alanin
+~ Tạo màu trực tiếp
+}
+
+Chất đồng enzym được sử dụng trong phản ứng ghép là?{
+~ FAD
+~ NAD+
+= NADH
+~ CoA
+}
+
+Nguyên tắc đo trong định lượng ALT là theo dõi sự thay đổi của?{
+~ Màu dung dịch
+~ Độ đục
+= Độ hấp thụ của NADH
+~ pH môi trường
+}
+
+Bước sóng đo quang thường dùng trong định lượng ALT là?{
+~ 280 nm
+= 340 nm
+~ 500 nm
+~ 700 nm
+}
+
+Trong phản ứng ghép, NADH bị?{
+~ Tạo thành
+= Oxy hóa thành NAD+
+~ Kết tủa
+~ Trung hòa
+}
+
+Khi ALT tăng, tốc độ giảm hấp thụ NADH sẽ?{
+~ Giảm
+~ Không đổi
+= Tăng
+~ Mất hoàn toàn
+}
+
+Mẫu bệnh phẩm dùng để định lượng ALT là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Vì sao không dùng mẫu bị tan huyết để định lượng ALT?{
+~ Thay đổi pH
+= Giải phóng enzym gây sai lệch kết quả
+~ Làm đục mẫu
+~ Giảm hoạt tính ALT
+}
+
+Giá trị ALT bình thường ở người trưởng thành là?{
+~ <10 U/L
+= <40 U/L
+~ 60–100 U/L
+~ >100 U/L
+}
+
+ALT tăng cao chủ yếu phản ánh tổn thương của cơ quan nào?{
+~ Tim
+~ Thận
+= Gan
+~ Tụy
+}
+
+ALT đặc hiệu cho gan hơn so với enzym nào?{
+= AST
+~ ALP
+~ GGT
+~ CK
+}
+
+Trong viêm gan cấp, ALT thường?{
+~ Giảm nhẹ
+~ Không thay đổi
+= Tăng rất cao
+~ Giảm sâu
+}
+
+ALT tăng nhẹ, kéo dài thường gặp trong?{
+~ Nhồi máu cơ tim
+~ Suy thận
+= Gan nhiễm mỡ
+~ Viêm tụy cấp
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng ALT?{
+~ Mẫu tan huyết
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Tất cả các yếu tố trên
+}
+
+"ALT là enzym đặc hiệu cho gan."{
+= Đúng
+~ Sai
+}
+
+"Định lượng ALT dựa trên phương pháp enzym động học."{
+= Đúng
+~ Sai
+}
+
+"Trong phản ứng ghép, sự giảm NADH được theo dõi ở 340 nm."{
+= Đúng
+~ Sai
+}
+
+"ALT và AST tăng cao nhất trong nhồi máu cơ tim."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng ALT?{
+~ Nhiệt độ phản ứng
+~ Chất lượng thuốc thử
+= Màu ống nghiệm
+~ Thời gian đo
+}
+
+Ý nghĩa thực hành của TN định lượng ALT là?{
+~ Phân biệt các loại enzym
+~ Đánh giá chức năng thận
+= Đánh giá mức độ tổn thương tế bào gan
+~ Xác định glucose máu
+}
+
+
+
+
+[============================== TN5: ĐỊNH LƯỢNG AST / GOT – BÀI 5 ==============================]
+
+[Định lượng AST (GOT) – Bài 5]
+
+AST còn được gọi là?{
+= GOT
+~ GPT
+~ ALP
+~ GGT
+}
+
+AST là enzym xúc tác phản ứng nào?{
+= Chuyển amin giữa aspartat và α-ketoglutarat
+~ Chuyển amin giữa alanin và α-ketoglutarat
+~ Oxy hóa acid béo
+~ Thủy phân protein
+}
+
+Cơ chất chính của AST trong phản ứng là?{
+= Aspartat
+~ Alanin
+~ Glucose
+~ Pyruvat
+}
+
+Sản phẩm trực tiếp của phản ứng do AST xúc tác là?{
+= Oxaloacetat
+~ Pyruvat
+~ Lactat
+~ Acetyl-CoA
+}
+
+Phản ứng định lượng AST thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng enzym
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Nguyên tắc của phương pháp định lượng AST hiện nay là?{
+~ Đo màu trực tiếp
+= Phương pháp enzym động học
+~ Phương pháp chuẩn độ
+~ Phương pháp kết tủa
+}
+
+Trong phương pháp enzym động học, phản ứng AST được ghép với enzym nào?{
+~ Urease
+~ Creatininase
+= Malat dehydrogenase (MDH)
+~ Peroxidase
+}
+
+Vai trò của MDH trong phản ứng ghép là?{
+~ Xúc tác phản ứng chuyển amin
+= Chuyển oxaloacetat thành malat
+~ Tạo màu trực tiếp
+~ Oxy hóa aspartat
+}
+
+Chất đồng enzym sử dụng trong phản ứng ghép là?{
+~ FAD
+~ NAD+
+= NADH
+~ CoA
+}
+
+Nguyên tắc đo trong định lượng AST là theo dõi sự thay đổi của?{
+~ Màu dung dịch
+~ Độ đục
+= Độ hấp thụ của NADH
+~ pH môi trường
+}
+
+Bước sóng đo quang thường dùng trong định lượng AST là?{
+~ 280 nm
+= 340 nm
+~ 500 nm
+~ 700 nm
+}
+
+Trong phản ứng ghép, NADH bị?{
+~ Tạo thành
+= Oxy hóa thành NAD+
+~ Kết tủa
+~ Trung hòa
+}
+
+Khi AST tăng, tốc độ giảm hấp thụ NADH sẽ?{
+~ Giảm
+~ Không đổi
+= Tăng
+~ Mất hoàn toàn
+}
+
+Mẫu bệnh phẩm dùng để định lượng AST là?{
+~ Máu toàn phần
+= Huyết thanh hoặc huyết tương
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Vì sao không dùng mẫu bị tan huyết để định lượng AST?{
+~ Thay đổi pH
+= Giải phóng enzym từ hồng cầu gây sai lệch kết quả
+~ Làm đục mẫu
+~ Giảm hoạt tính AST
+}
+
+Giá trị AST bình thường ở người trưởng thành là?{
+~ <10 U/L
+= <40 U/L
+~ 60–100 U/L
+~ >100 U/L
+}
+
+AST tăng cao gặp trong những trường hợp nào?{
+~ Viêm gan
+~ Nhồi máu cơ tim
+~ Tổn thương cơ
+= Tất cả các trường hợp trên
+}
+
+So với ALT, AST có đặc điểm nào sau đây?{
+~ Đặc hiệu cho gan hơn
+= Ít đặc hiệu cho gan hơn
+~ Chỉ có ở gan
+~ Không có ở cơ tim
+}
+
+AST tăng cao nổi bật trong bệnh lý nào?{
+~ Gan nhiễm mỡ
+= Nhồi máu cơ tim
+~ Suy thận
+~ Đái tháo đường
+}
+
+Tỷ lệ AST/ALT (De Ritis) tăng cao thường gặp trong?{
+~ Viêm gan virus
+= Tổn thương gan do rượu
+~ Gan nhiễm mỡ
+~ Viêm tụy
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng AST?{
+~ Mẫu tan huyết
+~ Nhiệt độ phản ứng
+~ Thời gian đo
+= Tất cả các yếu tố trên
+}
+
+"AST là enzym có mặt nhiều ở gan và cơ tim."{
+= Đúng
+~ Sai
+}
+
+"Định lượng AST dựa trên phương pháp enzym động học."{
+= Đúng
+~ Sai
+}
+
+"Sự giảm hấp thụ NADH ở 340 nm tỉ lệ thuận với hoạt độ AST."{
+= Đúng
+~ Sai
+}
+
+"AST đặc hiệu cho gan hơn ALT."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng AST?{
+~ Chất lượng thuốc thử
+~ Nhiệt độ phản ứng
+= Màu ống nghiệm
+~ Thời gian đo
+}
+
+Ý nghĩa thực hành của TN định lượng AST là?{
+~ Đánh giá chức năng thận
+~ Theo dõi lipid máu
+= Hỗ trợ đánh giá tổn thương gan, tim và cơ
+~ Phát hiện glucose máu
+}
+
+
+
+[============================== TN1: PHẢN ỨNG XÁC ĐỊNH HOẠT ĐỘ AMYLASE TRONG NƯỚC TIỂU (PHƯƠNG PHÁP WOHLGEMUTH) – BÀI 6 ==============================]
+
+[Xác định hoạt độ Amylase trong nước tiểu – Bài 6]
+
+Amylase là enzym xúc tác phản ứng nào?{
+= Thủy phân tinh bột thành dextrin và maltose
+~ Thủy phân protein
+~ Thủy phân lipid
+~ Oxy hóa glucose
+}
+
+Phản ứng xác định hoạt độ amylase thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng bán định lượng
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết amylase
+= Xác định hoạt độ amylase trong nước tiểu
+~ Định lượng glucose niệu
+~ Đánh giá chức năng gan
+}
+
+Mẫu bệnh phẩm dùng trong thí nghiệm là?{
+~ Máu toàn phần
+~ Huyết thanh
+= Nước tiểu
+~ Dịch não tủy
+}
+
+Nguồn gốc sinh lý chính của amylase là?{
+~ Gan
+~ Thận
+= Tuyến tụy và tuyến nước bọt
+~ Ruột non
+}
+
+Nguyên tắc của phương pháp Wohlgemuth dựa trên?{
+~ Phản ứng oxy hóa – khử
+= Khả năng thủy phân tinh bột của amylase
+~ Phản ứng tạo phức
+~ Phản ứng kết tủa
+}
+
+Chất nền (cơ chất) dùng trong phản ứng là?{
+~ Glucose
+~ Maltose
+= Tinh bột
+~ Cellulose
+}
+
+Thuốc thử dùng để kiểm tra tinh bột còn dư là?{
+~ Thuốc thử Benedict
+~ Thuốc thử Biuret
+= Dung dịch iod
+~ Thuốc thử Diazo
+}
+
+Màu xanh tím xuất hiện khi cho iod vào chứng tỏ?{
+~ Tinh bột đã bị thủy phân hoàn toàn
+= Còn tinh bột chưa bị thủy phân
+~ Có glucose
+~ Có protein
+}
+
+Khi amylase hoạt động mạnh, màu sau khi thêm iod sẽ?{
+~ Xanh đậm
+~ Tím sẫm
+= Không xuất hiện màu xanh
+~ Màu vàng nâu
+}
+
+Hoạt độ amylase theo phương pháp Wohlgemuth được xác định dựa vào?{
+~ Thời gian phản ứng
+= Độ pha loãng lớn nhất còn thủy phân hết tinh bột
+~ Cường độ màu
+~ pH dung dịch
+}
+
+Đơn vị Wohlgemuth biểu thị điều gì?{
+~ Nồng độ enzym
+= Hoạt độ enzym
+~ Khối lượng enzym
+~ Thể tích mẫu
+}
+
+Phương pháp Wohlgemuth có đặc điểm nào sau đây?{
+~ Độ chính xác cao
+~ Định lượng tuyệt đối
+= Đơn giản, dễ thực hiện
+~ Không cần thuốc thử
+}
+
+Hạn chế của phương pháp Wohlgemuth là?{
+~ Khó thao tác
+= Độ chính xác không cao
+~ Không phát hiện được amylase
+~ Chi phí lớn
+}
+
+Amylase niệu tăng cao thường gặp trong bệnh lý nào?{
+~ Viêm gan
+~ Suy thận mạn
+= Viêm tụy cấp
+~ Thiếu máu
+}
+
+Amylase niệu tăng thường đi kèm với?{
+~ Tăng ALT
+~ Tăng AST
+= Tăng amylase máu
+~ Giảm glucose máu
+}
+
+Trường hợp nào sau đây có thể làm amylase niệu tăng?{
+~ Tắc ruột
+~ Chấn thương tụy
+~ Viêm tụy
+= Tất cả các trường hợp trên
+}
+
+Yếu tố nào có thể ảnh hưởng đến kết quả xác định hoạt độ amylase?{
+~ Nhiệt độ phản ứng
+~ pH môi trường
+~ Thời gian ủ
+= Tất cả các yếu tố trên
+}
+
+Mẫu nước tiểu dùng để xác định amylase nên là?{
+~ Nước tiểu để lâu
+~ Nước tiểu có chất bảo quản
+= Nước tiểu mới lấy
+~ Nước tiểu sau đun nóng
+}
+
+Vì sao không nên đun nóng mẫu nước tiểu trước khi làm phản ứng?{
+~ Làm bay hơi nước
+= Làm mất hoạt tính enzym
+~ Thay đổi màu mẫu
+~ Gây kết tủa
+}
+
+"Amylase là enzym thủy phân tinh bột."{
+= Đúng
+~ Sai
+}
+
+"Phương pháp Wohlgemuth là phương pháp bán định lượng."{
+= Đúng
+~ Sai
+}
+
+"Thêm iod vào dung dịch không còn tinh bột sẽ không xuất hiện màu xanh."{
+= Đúng
+~ Sai
+}
+
+"Hoạt độ amylase niệu giảm trong viêm tụy cấp."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng xác định amylase?{
+~ Nhiệt độ phản ứng
+~ pH môi trường
+= Màu ống nghiệm
+~ Thời gian ủ
+}
+
+Ý nghĩa thực hành của TN xác định hoạt độ amylase là?{
+~ Đánh giá chức năng gan
+~ Theo dõi lipid máu
+= Hỗ trợ chẩn đoán viêm tụy và bệnh lý tụy
+~ Phát hiện glucose niệu
+}
+
+
+
+
+[============================== TN2: PHẢN ỨNG ĐỊNH LƯỢNG AMYLASE HUYẾT THANH – BÀI 6 ==============================]
+
+[Định lượng Amylase huyết thanh – Bài 6]
+
+Amylase là enzym thuộc nhóm nào?{
+~ Oxidoreductase
+~ Transferase
+= Hydrolase
+~ Ligase
+}
+
+Phản ứng định lượng amylase huyết thanh thuộc loại phản ứng nào?{
+~ Phản ứng định tính
+= Phản ứng định lượng enzym
+~ Phản ứng chuẩn độ
+~ Phản ứng kết tủa
+}
+
+Mục đích của thí nghiệm là?{
+~ Nhận biết amylase
+= Xác định hoạt độ amylase trong huyết thanh
+~ Định lượng glucose máu
+~ Đánh giá chức năng gan
+}
+
+Mẫu bệnh phẩm dùng trong thí nghiệm là?{
+~ Máu toàn phần
+= Huyết thanh
+~ Nước tiểu
+~ Dịch não tủy
+}
+
+Nguồn gốc sinh lý chính của amylase trong huyết thanh là?{
+~ Gan
+~ Thận
+= Tuyến tụy và tuyến nước bọt
+~ Ruột non
+}
+
+Nguyên tắc chung của phản ứng định lượng amylase là dựa trên?{
+~ Phản ứng oxy hóa – khử
+= Khả năng thủy phân tinh bột
+~ Phản ứng tạo phức
+~ Phản ứng kết tủa
+}
+
+Cơ chất thường dùng trong phản ứng là?{
+~ Glucose
+~ Maltose
+= Tinh bột
+~ Cellulose
+}
+
+Sản phẩm tạo thành khi amylase thủy phân tinh bột là?{
+~ Glucose
+= Maltose và dextrin
+~ Cellulose
+~ Acid lactic
+}
+
+Phương pháp iod – tinh bột dựa trên nguyên tắc nào?{
+~ Đo màu trực tiếp của enzym
+= Xác định lượng tinh bột còn dư sau phản ứng
+~ Phản ứng chuẩn độ
+~ Phản ứng oxy hóa
+}
+
+Khi tinh bột bị thủy phân hoàn toàn, thêm iod sẽ cho màu gì?{
+~ Xanh tím
+~ Tím sẫm
+= Không xuất hiện màu xanh
+~ Màu nâu
+}
+
+Trong các phương pháp hiện đại, định lượng amylase thường dùng kỹ thuật nào?{
+~ Phương pháp bán định lượng
+~ Phương pháp chuẩn độ
+= Phương pháp enzym động học
+~ Phương pháp kết tủa
+}
+
+Trong phương pháp enzym động học, hoạt độ amylase được xác định dựa vào?{
+~ Màu tạo thành
+= Tốc độ phản ứng
+~ Độ đục dung dịch
+~ pH môi trường
+}
+
+Thiết bị thường dùng để đo hoạt độ amylase là?{
+~ Kính hiển vi
+~ Máy ly tâm
+= Máy quang phổ
+~ Máy đo pH
+}
+
+Đơn vị thường dùng để biểu thị hoạt độ amylase là?{
+~ mg/dL
+~ mmol/L
+= U/L
+~ %
+}
+
+Giá trị amylase huyết thanh bình thường ở người trưởng thành là?{
+~ <30 U/L
+= 30–110 U/L
+~ 150–300 U/L
+~ >400 U/L
+}
+
+Amylase huyết thanh tăng cao thường gặp trong bệnh lý nào?{
+~ Viêm gan
+~ Suy thận mạn
+= Viêm tụy cấp
+~ Thiếu máu
+}
+
+Amylase huyết thanh tăng thường xuất hiện sớm sau?{
+~ Tổn thương gan
+~ Nhồi máu cơ tim
+= Viêm tụy cấp
+~ Đái tháo đường
+}
+
+Amylase huyết thanh tăng nhưng amylase niệu không tăng có thể do?{
+~ Viêm tụy
+~ Chấn thương tụy
+= Suy thận
+~ Tắc ruột
+}
+
+Yếu tố nào có thể làm sai lệch kết quả định lượng amylase huyết thanh?{
+~ Tan huyết
+~ Nhiệt độ phản ứng
+~ Thời gian ủ
+= Tất cả các yếu tố trên
+}
+
+Vì sao không dùng mẫu huyết thanh bị tan huyết để định lượng amylase?{
+~ Thay đổi pH
+= Giải phóng enzym và chất gây nhiễu
+~ Làm đục mẫu
+~ Giảm hoạt tính enzym
+}
+
+"Amylase là enzym thủy phân tinh bột."{
+= Đúng
+~ Sai
+}
+
+"Định lượng amylase huyết thanh hiện nay thường dùng phương pháp enzym động học."{
+= Đúng
+~ Sai
+}
+
+"Khi amylase tăng, tốc độ thủy phân tinh bột tăng."{
+= Đúng
+~ Sai
+}
+
+"Amylase huyết thanh chỉ tăng trong viêm tụy."{
+~ Đúng
+= Sai
+}
+
+Yếu tố nào KHÔNG ảnh hưởng đến phản ứng định lượng amylase huyết thanh?{
+~ Nhiệt độ phản ứng
+~ Chất lượng thuốc thử
+= Màu ống nghiệm
+~ Thời gian đo
+}
+
+Ý nghĩa thực hành của TN định lượng amylase huyết thanh là?{
+~ Đánh giá chức năng gan
+~ Theo dõi lipid máu
+= Hỗ trợ chẩn đoán và theo dõi bệnh lý tụy
+~ Phát hiện glucose máu
+}
+
+
+
+

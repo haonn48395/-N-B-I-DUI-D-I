@@ -1,0 +1,275 @@
+/* (giữ nguyên phần Quizizz trước đó) */
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #f3e8ff;
+  padding: 30px;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  background: white;
+  padding: 40px;
+  border-radius: 22px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.15);
+}
+
+h1 {
+  text-align: center;
+  color: #6d28d9;
+  margin-bottom: 20px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+/* Upload block */
+.upload-block {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#fileInput {
+  margin-bottom: 10px;
+}
+
+/* Menu bài */
+#menu {
+  margin: 20px 0;
+  text-align: center;
+}
+
+.menu-btn {
+  background: #7c3aed;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 12px;
+  margin: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  border: none;
+  transition: 0.25s;
+}
+
+.menu-btn:hover {
+  background: #6d28d9;
+}
+
+/* Timer */
+#timer {
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  color: #dc2626;
+  margin-bottom: 20px;
+}
+
+/* Quiz block */
+.question {
+  background: #faf5ff;
+  padding: 20px;
+  border-radius: 16px;
+  margin-bottom: 25px;
+  border: 2px solid #ddd;
+  transition: 0.3s ease;
+}
+
+.question:hover {
+  border-color: #7c3aed;
+  box-shadow: 0 0 12px rgba(124,58,237,0.3);
+}
+
+label {
+  display: block;
+  padding: 8px;
+  border-radius: 10px;
+  margin-bottom: 8px;
+  cursor: pointer;
+}
+
+label:hover {
+  background: #ede9fe;
+}
+
+.correct {
+  background: #e0ffe4 !important;
+  border-color: #22c55e !important;
+}
+
+.incorrect {
+  background: #ffe4e6 !important;
+  border-color: #ef4444 !important;
+}
+
+.glow {
+  animation: glowEffect 1.5s ease-in-out;
+}
+
+@keyframes glowEffect {
+  0% { box-shadow: 0 0 0px #22c55e; }
+  50% { box-shadow: 0 0 14px #22c55e; }
+  100% { box-shadow: 0 0 0px #22c55e; }
+}
+
+.answer-key {
+  margin-top: 10px;
+  font-size: 17px;
+  color: #166534;
+  font-weight: bold;
+}
+
+button {
+  background: #7c3aed;
+  padding: 14px 25px;
+  border-radius: 12px;
+  border: none;
+  color: white;
+  font-size: 20px;
+  display: block;
+  margin: 20px auto;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #6d28d9;
+}
+
+/* ===== FLASHCARD STYLES ===== */
+#flashcard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.card {
+  width: 100%;
+  max-width: 760px;
+  min-height: 220px;
+  background: linear-gradient(180deg,#fff,#fbf8ff);
+  border-radius: 16px;
+  padding: 22px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+  text-align: center;
+  position: relative;
+  transition: transform 0.35s;
+}
+
+.card .qtext { font-size: 20px; color:#2b0064; margin-bottom: 12px; }
+.card .qimg { max-width: 100%; max-height: 220px; margin: 6px auto; display:block; }
+
+.card .controls {
+  display:flex;
+  gap:10px;
+  justify-content:center;
+  margin-top:12px;
+}
+
+.small-btn {
+  padding:8px 12px;
+  border-radius:10px;
+  border:none;
+  background:#7c3aed;
+  color:white;
+  cursor:pointer;
+}
+.small-btn:hover { background:#6d28d9; }
+
+.tag-known { background:#10b981; color:white; padding:6px 10px; border-radius:8px; }
+.tag-unknown { background:#ef4444; color:white; padding:6px 10px; border-radius:8px; }
+/* ===============================
+   PROGRESS MANAGER MODAL
+=============================== */
+
+.modal {
+  display: none;
+  position: fixed;
+  inset: 0;
+  z-index: 999;
+  background: rgba(0, 0, 0, 0.45);
+}
+
+.modal-content {
+  background: white;
+  max-width: 620px;
+  margin: 70px auto;
+  padding: 26px;
+  border-radius: 20px;
+  box-shadow: 0 25px 50px rgba(0,0,0,0.25);
+  animation: popupFade 0.25s ease;
+}
+
+@keyframes popupFade {
+  from { opacity: 0; transform: scale(0.95); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+.modal-content h2 {
+  text-align: center;
+  color: #6d28d9;
+  margin-bottom: 18px;
+}
+
+/* ===============================
+   PROGRESS ITEM
+=============================== */
+
+.progress-item {
+  background: #f5f3ff;
+  border-radius: 14px;
+  padding: 14px 16px;
+  margin-bottom: 14px;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.08);
+}
+
+.progress-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-weight: bold;
+  color: #4c1d95;
+}
+
+.progress-header span {
+  font-size: 14px;
+  color: #166534;
+}
+
+/* ===============================
+   PROGRESS BAR
+=============================== */
+
+.progress-bar {
+  background: #e5e7eb;
+  height: 10px;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-top: 6px;
+}
+
+.progress-bar span {
+  display: block;
+  height: 100%;
+  width: 0%;
+  background: linear-gradient(90deg, #7c3aed, #a78bfa);
+  transition: width 0.4s ease;
+}
+
+/* ===============================
+   BUTTONS IN MODAL
+=============================== */
+
+.progress-item .menu-btn {
+  padding: 6px 14px;
+  font-size: 14px;
+  margin-right: 6px;
+}
+
+.progress-item .menu-btn:last-child {
+  background: #ef4444;
+}
+
+.progress-item .menu-btn:last-child:hover {
+  background: #dc2626;
+}
+

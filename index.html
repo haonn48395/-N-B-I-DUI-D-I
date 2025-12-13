@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Web Trắc Nghiệm – Quizizz Style</title>
+  <link rel="stylesheet" href="styles.css">
+<link rel="manifest" href="manifest.json">
+<meta name="theme-color" content="#7c3aed">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+</head>
+
+<body>
+
+  <div class="container">
+
+    <h1>Trắc nghiệm – Quizizz Style</h1>
+
+    <!-- UPLOAD FILE TXT -->
+    <div class="upload-block">
+      <input type="file" id="fileInput" accept=".txt">
+      <button id="loadBtn">Tải câu hỏi</button>
+    </div>
+
+    <!-- MENU CHỌN BÀI -->
+    <div id="menu"></div>
+
+    <!-- CONTROLS -->
+    <div id="controls" style="text-align:center; margin:12px 0;">
+      <button id="toggleFlashBtn" class="menu-btn" style="display:none;">Chuyển sang Flashcard</button>
+      <button id="saveProgressBtn" class="menu-btn" style="display:none;">Lưu tiến trình</button>
+      <button id="clearProgressBtn" class="menu-btn" style="display:none;">Xóa tiến trình</button>
+      <button id="manageProgressBtn" class="menu-btn" style="display:none;">Quản lý tiến trình</button>
+    </div>
+
+    <!-- TIMER -->
+    <div id="timer"></div>
+
+    <!-- QUIZ -->
+    <div id="quiz"></div>
+
+    <!-- FLASHCARD -->
+    <div id="flashcard" style="display:none;"></div>
+
+    <!-- SUBMIT -->
+    <button id="submitBtn" style="display:none;">Nộp bài</button>
+
+    <!-- RESULT -->
+    <div id="result"></div>
+
+  </div>
+
+  <!-- ===== POPUP QUẢN LÝ TIẾN TRÌNH ===== -->
+  <div id="progressModal" class="modal">
+    <div class="modal-content">
+      <h2>Quản lý tiến trình</h2>
+      <div id="progressList"></div>
+      <button id="closeModal" class="menu-btn">Đóng</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
