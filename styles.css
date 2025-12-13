@@ -272,4 +272,65 @@ button:hover {
 .progress-item .menu-btn:last-child:hover {
   background: #dc2626;
 }
+@media (max-width: 768px) {
+
+  body {
+    padding: 12px;
+  }
+
+  .container {
+    padding: 20px;
+    border-radius: 16px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  .menu-btn {
+    width: 100%;
+    font-size: 16px;
+    padding: 12px;
+    margin: 6px 0;
+  }
+
+  .question {
+    padding: 16px;
+  }
+
+  label {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  #timer {
+    font-size: 20px;
+  }
+
+  button {
+    width: 100%;
+    font-size: 18px;
+  }
+
+  /* Flashcard */
+  .card {
+    min-height: 180px;
+    padding: 16px;
+  }
+
+  .card .qtext {
+    font-size: 18px;
+  }
+
+  .small-btn {
+    font-size: 14px;
+    padding: 8px;
+  }
+
+  .modal-content {
+    width: 92%;
+    margin: 50px auto;
+  }
+
+}
 
