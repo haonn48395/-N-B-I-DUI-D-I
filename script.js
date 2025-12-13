@@ -17,6 +17,9 @@ let currentFlashIndex = 0;
 let selectedAnswers = []; // per-question selected index or null
 let timer = null;
 let timeLeft = 300; // default 5min
+let isReviewWrong = false;
+let fullQuestionsBackup = null;
+
 
 const quizDiv = document.getElementById("quiz");
 const flashDiv = document.getElementById("flashcard");
@@ -105,6 +108,9 @@ function renderMenu() {
 
 // ---------- Load lesson ----------
 function loadLesson(lessonName) {
+  // RESET review mode
+  isReviewWrong = false;
+  fullQuestionsBackup = null;
   currentLesson = lessonName;
   currentQuestions = JSON.parse(JSON.stringify(QUESTIONS[lessonName])); // deep copy
   shuffle(currentQuestions);
@@ -256,7 +262,10 @@ function finishQuiz() {
   });
   document.getElementById('result').innerHTML = `<h2>Kết quả: ${score} / ${currentQuestions.length}</h2>`;
   renderWrongNav();
+  saveWrongQuestions();
   saveState(); // save after finish
+  document.getElementById("reviewWrongBtn").style.display = "inline-block";
+
 }
 
 // ---------- Wrong nav ----------
@@ -345,6 +354,58 @@ function restoreSelectedAnswersToUI() {
     if (inp) inp.checked = true;
   });
 }
+function saveWrongQuestions() {
+  if (!currentLesson) return;
+
+  const wrongQuestions = [];
+
+  currentQuestions.forEach((q, i) => {
+    const selected = document.querySelector(`input[name="q${i}"]:checked`);
+
+    if (!selected || !q.options[selected.value]?.isCorrect) {
+      wrongQuestions.push(q);
+    }
+  });
+
+  const key = 'quiz_wrong_' + currentLesson;
+  localStorage.setItem(key, JSON.stringify(wrongQuestions));
+}
+
+const reviewWrongBtn = document.getElementById("reviewWrongBtn");
+
+reviewWrongBtn.onclick = () => {
+  loadWrongReview();
+};
+
+function loadWrongReview() {
+  const key = 'quiz_wrong_' + currentLesson;
+  const wrongData = JSON.parse(localStorage.getItem(key) || '[]');
+
+  if (wrongData.length === 0) {
+    alert('Không có câu sai để ôn 🎉');
+    return;
+  }
+
+  // Backup bài đầy đủ (chỉ backup 1 lần)
+  if (!isReviewWrong) {
+    fullQuestionsBackup = JSON.parse(JSON.stringify(currentQuestions));
+  }
+
+  // Chuyển sang chế độ ôn câu sai
+  isReviewWrong = true;
+
+  currentQuestions = JSON.parse(JSON.stringify(wrongData));
+  selectedAnswers = Array(currentQuestions.length).fill(null);
+  wrongList = [];
+  wrongIndex = 0;
+  mode = 'quiz';
+
+  stopTimer();
+  timerDiv.textContent = 'Chế độ ôn câu sai';
+
+  showQuiz();
+}
+
 
 // manual buttons
 saveProgressBtn.onclick = () => { saveState(); alert('Đã lưu tiến trình.'); };
