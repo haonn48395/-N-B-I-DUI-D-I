@@ -572,4 +572,3 @@ if ("serviceWorker" in navigator) {
 
 
 // End of script.js
-
