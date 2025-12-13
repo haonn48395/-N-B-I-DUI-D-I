@@ -1,4 +1,4 @@
-const CACHE_NAME = "quiz-pwa-v1";
+const CACHE_NAME = "quiz-pwa-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -18,3 +18,16 @@ self.addEventListener("fetch", e => {
     caches.match(e.request).then(res => res || fetch(e.request))
   );
 });
+self.addEventListener("activate", event => {
+  event.waitUntil(
+    caches.keys().then(keys =>
+      Promise.all(
+        keys
+          .filter(key => key !== CACHE_NAME)
+          .map(key => caches.delete(key))
+      )
+    )
+  );
+});
+
+
