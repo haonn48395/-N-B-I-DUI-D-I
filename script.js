@@ -75,22 +75,30 @@ function parseQuestions(lines) {
 function parseQuestion(block) {
   const name = block.split('{')[0].trim();
   const inside = block.split('{')[1].replace('}', '').trim();
-  const opts = inside.split(/\r?\n/).map(l => l.trim()).filter(l => l);
+  const lines = inside.split(/\r?\n/).map(l => l.trim()).filter(l => l);
+
   let options = [];
-  let correctIndex = -1;
-  opts.forEach((ln, idx) => {
-    if (ln.startsWith('=')) {
-      correctIndex = idx;
-      options.push({ text: ln.slice(1).trim(), isCorrect: true });
-    } else if (ln.startsWith('~')) {
-      options.push({ text: ln.slice(1).trim(), isCorrect: false });
-    } else {
-      // tolerate missing marker
-      options.push({ text: ln.replace(/^~|^=/, '').trim(), isCorrect: false });
+  let image = null;
+  let fillAnswer = null;
+
+  lines.forEach(line => {
+    if (line.startsWith('@img:')) {
+      image = line.replace('@img:', '').trim();
+    } else if (line.startsWith('#')) {
+      fillAnswer = line.slice(1).trim();
+    } else if (line.startsWith('=')) {
+      options.push({ text: line.slice(1).trim(), isCorrect: true });
+    } else if (line.startsWith('~')) {
+      options.push({ text: line.slice(1).trim(), isCorrect: false });
     }
   });
-  shuffle(options);
-  return { name, options };
+
+  return {
+    name,
+    image,
+    options,
+    fillAnswer   // null nếu là trắc nghiệm
+  };
 }
 
 // ---------- Menu ----------
@@ -132,20 +140,38 @@ function showQuiz() {
   toggleFlashBtn.textContent = 'Chuyển sang Flashcard';
   toggleFlashBtn.style.display = 'inline-block';
   quizDiv.innerHTML = '';
+
   currentQuestions.forEach((q, i) => {
     const d = document.createElement('div');
     d.className = 'question';
+
     let html = `<h3>${i+1}. ${q.name}</h3>`;
-    q.options.forEach((opt, idx) => {
-      html += `<label><input type="radio" name="q${i}" value="${idx}"> ${opt.text}</label>`;
-    });
+
+    if (q.image) {
+      html += `<img src="${q.image}" class="qimg" onclick="zoomImage('${q.image}')">`;
+    }
+
+    // 👇 CHỖ QUAN TRỌNG
+    if (q.fillAnswer) {
+      html += `
+        <input 
+          type="text"
+          class="fill-input"
+          placeholder="Nhập đáp án..."
+          data-index="${i}">
+      `;
+    } else {
+      q.options.forEach((opt, idx) => {
+        html += `<label><input type="radio" name="q${i}" value="${idx}"> ${opt.text}</label>`;
+      });
+    }
+
     d.innerHTML = html;
     quizDiv.appendChild(d);
   });
-  // restore answers if exist
+
   restoreSelectedAnswersToUI();
 }
-
 // ---------- Flashcard Mode ----------
 toggleFlashBtn.onclick = () => {
   if (!currentQuestions.length) return alert('Chưa load bài.');
@@ -174,6 +200,14 @@ function renderFlash(index) {
   const qtext = document.createElement('div'); qtext.className = 'qtext';
   qtext.innerHTML = `<b>${index+1}.</b> ${q.name}`;
   card.appendChild(qtext);
+// === HIỂN THỊ ẢNH NẾU CÓ ===
+if (q.image) {
+  const img = document.createElement('img');
+  img.src = q.image;
+  img.className = 'qimg';
+  card.appendChild(img);
+}
+
 
   // show options as small list (optional) — but flashcard shows only question and image (if any)
   // For simplicity, we'll not show options by default; "Hiện đáp án" will show correct text.
@@ -241,31 +275,67 @@ function finishQuiz() {
   stopTimer();
   wrongList = [];
   let score = 0;
+
   currentQuestions.forEach((q, i) => {
-    const sel = document.querySelector(`input[name="q${i}"]:checked`);
     const div = quizDiv.children[i];
-    const ans = document.createElement('div');
-    ans.className = 'answer-key';
-    ans.innerHTML = 'Đáp án đúng: <b>' + q.options.find(o=>o.isCorrect).text + '</b>';
-    div.appendChild(ans);
-    if (sel && q.options[sel.value].isCorrect) {
-      div.classList.add('correct');
-      score++;
-    } else {
-      div.classList.add('incorrect');
-      wrongList.push(div);
+
+    // ===== CÂU ĐIỀN =====
+    if (q.fillAnswer) {
+      const input = div.querySelector('.fill-input');
+      const userAns = input.value.trim().toLowerCase();
+      const correctAns = q.fillAnswer.trim().toLowerCase();
+
+      const ans = document.createElement('div');
+      ans.className = 'answer-key';
+      ans.innerHTML = `Đáp án đúng: <b>${q.fillAnswer}</b>`;
+      div.appendChild(ans);
+
+      if (userAns === correctAns) {
+        div.classList.add('correct');
+        score++;
+      } else {
+        div.classList.add('incorrect');
+        wrongList.push(div);
+      }
+
+      input.disabled = true;
     }
-    // disable radios
-    const radios = div.querySelectorAll('input');
-    radios.forEach(r=>r.disabled=true);
+
+    // ===== CÂU TRẮC NGHIỆM (CODE CŨ CỦA BẠN ĐƯỢC "BỌC" Ở ĐÂY) =====
+    else {
+      const sel = document.querySelector(`input[name="q${i}"]:checked`);
+
+      const ans = document.createElement('div');
+      ans.className = 'answer-key';
+      ans.innerHTML =
+        'Đáp án đúng: <b>' +
+        q.options.find(o => o.isCorrect).text +
+        '</b>';
+      div.appendChild(ans);
+
+      if (sel && q.options[sel.value].isCorrect) {
+        div.classList.add('correct');
+        score++;
+      } else {
+        div.classList.add('incorrect');
+        wrongList.push(div);
+      }
+
+      // disable radios
+      const radios = div.querySelectorAll('input[type="radio"]');
+      radios.forEach(r => r.disabled = true);
+    }
+
     div.classList.add('glow');
   });
-  document.getElementById('result').innerHTML = `<h2>Kết quả: ${score} / ${currentQuestions.length}</h2>`;
+
+  document.getElementById('result').innerHTML =
+    `<h2>Kết quả: ${score} / ${currentQuestions.length}</h2>`;
+
   renderWrongNav();
   saveWrongQuestions();
-  saveState(); // save after finish
+  saveState();
   document.getElementById("reviewWrongBtn").style.display = "inline-block";
-
 }
 
 // ---------- Wrong nav ----------
@@ -569,6 +639,17 @@ function deleteFromModal(lesson) {
 if ("serviceWorker" in navigator) {
   navigator.serviceWorker.register("service-worker.js");
 }
+function zoomImage(src) {
+  const overlay = document.getElementById('imgOverlay');
+  const img = document.getElementById('zoomImg');
+  img.src = src;
+  overlay.style.display = 'flex';
+}
+
+function closeImgZoom() {
+  document.getElementById('imgOverlay').style.display = 'none';
+}
 
 
 // End of script.js
+
